@@ -162,3 +162,37 @@ def merge_game_data(df):
     # save to a csv file (optional)
     # df.to_csv("steam_games_data.csv")
 
+def genre_playtime_summary(df, playtime_column):
+    """
+    Function to create a genre playtime summary for a specific user
+    
+    Usefal Source for pie chart: https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html
+    
+    """
+    # First we can make a new dataframe that copies just the information we need this way we dont affect the original df
+    genre_df = df[['Genre', playtime_column]].copy()
+    
+    # Filter out rows with missing genres
+    genre_df = genre_df.dropna(subset=['Genre'])
+    
+    # Split the comma-separated genres and explode into separate rows, this helps solve issues caused by the fact that games have multiple genres seperated by commas and not just one
+    genre_df['Genre'] = genre_df['Genre'].str.split(', ')
+    genre_df = genre_df.explode('Genre')
+    
+    # Group by genre, sum playtime and then sort in descending order
+    genre_playtime = genre_df.groupby('Genre')[playtime_column].sum().reset_index() # for reusability
+    
+    genre_playtime = genre_playtime.sort_values(playtime_column, ascending=False)
+    
+    # Take top 8 genres for better visualization
+    top_genres = genre_playtime.head(8)
+    if len(genre_playtime) > 8:
+        other_playtime = genre_playtime.iloc[8:][playtime_column].sum()
+    else:
+        other_playtime = 0
+    
+    # Add an "Other" category for the rest because we want to keep the pie chart from being too cluttered
+    if other_playtime > 0:
+        top_genres = pd.concat([top_genres, pd.DataFrame({'Genre': ['Other'], playtime_column: [other_playtime]})], ignore_index=True)
+    
+    return top_genres
