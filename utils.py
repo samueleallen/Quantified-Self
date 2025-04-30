@@ -27,6 +27,7 @@ def get_user_games(api_key, steam_id, name):
         for col in playtime_cols:
             if col in df.columns:
                 df.rename(columns={col: f"{col}_{name}"}, inplace=True)
+                
         return df
     
     else:
@@ -160,7 +161,7 @@ def merge_game_data(df):
     df["Total Negative Reviews"] = negative_ratios
 
     # save to a csv file (optional)
-    # df.to_csv("steam_games_data.csv")
+    df.to_csv("steam_games_data.csv")
 
 def genre_playtime_summary(df, playtime_column):
     """
