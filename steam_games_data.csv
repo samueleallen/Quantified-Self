@@ -1,487 +1,487 @@
 Game,appid,playtime_forever_Sam,rtime_last_played_Sam,playtime_2weeks_Sam,playtime_forever_Gavin,rtime_last_played_Gavin,playtime_2weeks_Gavin,Genre,Price (USD $),Review Score,Total Positive Reviews,Total Negative Reviews
-Rust,252490,56285.0,1729368992.0,0.0,230031.0,1736582608.0,0.0,"Action, Adventure, Indie, Massively Multiplayer, RPG",39.99,Very Positive,885223,124415
-Destiny 2,1085660,6822.0,1728677623.0,0.0,149362.0,1745990289.0,591.0,"Action, Adventure, Free To Play",0.0,Mostly Positive,100180,27456
-Terraria,105600,57014.0,1739930731.0,0.0,73027.0,1745116969.0,5.0,"Action, Adventure, Indie, RPG",9.99,Overwhelmingly Positive,1088448,26249
-Counter-Strike 2,730,4632.0,1730015497.0,0.0,42660.0,1644630043.0,0.0,"Action, Free To Play",0.0,Very Positive,3865695,615975
-Tom Clancy's Rainbow Six Siege,359550,58551.0,1712614476.0,0.0,39962.0,1744437447.0,0.0,Action,19.99,Very Positive,998160,184202
-Garry's Mod,4000,8296.0,1714535259.0,0.0,27059.0,1692778870.0,0.0,"Casual, Indie, Simulation",9.99,Overwhelmingly Positive,961963,30790
-Wallpaper Engine,431960,1892.0,1740543922.0,0.0,20577.0,1741484559.0,0.0,"Casual, Indie, Animation & Modeling, Design & Illustration, Photo Editing, Utilities",4.99,Overwhelmingly Positive,805504,15967
-tModLoader,1281930,21359.0,1739930743.0,0.0,18619.0,1740545584.0,0.0,"Action, Adventure, Indie, RPG, Free To Play",0.0,No user reviews,0,0
-ELDEN RING,1245620,20031.0,1742255929.0,0.0,15200.0,1719977922.0,0.0,"Action, RPG",59.99,Very Positive,706490,53391
-Baldur's Gate 3,1086940,277.0,1745285071.0,169.0,13216.0,1745828119.0,585.0,"Adventure, RPG, Strategy",59.99,Overwhelmingly Positive,641339,20721
-Dark and Darker,2016590,29.0,1722974513.0,0.0,10216.0,1745784960.0,1366.0,"Action, RPG, Free To Play, Early Access",0.0,Mixed,18,10
-Realm of the Mad God Exalt,200210,0.0,0.0,0.0,10117.0,1715413683.0,0.0,"Action, Adventure, Indie, Massively Multiplayer, RPG, Free To Play",0.0,Very Positive,158,39
-Hollow Knight,367520,31.0,1656627548.0,0.0,9200.0,1745116608.0,14.0,"Action, Adventure, Indie",14.99,Overwhelmingly Positive,355002,10585
-Sun Haven,1432860,949.0,1742274369.0,0.0,8930.0,1730523884.0,0.0,"Adventure, Casual, Indie, RPG, Simulation",14.99,Very Positive,15764,3440
-ARK: Survival Evolved,346110,18870.0,1690764396.0,0.0,8495.0,1674089201.0,0.0,"Action, Adventure, Indie, Massively Multiplayer, RPG",14.99,Very Positive,459628,85884
-Starbound,211820,36.0,1654474257.0,0.0,8454.0,1638608585.0,0.0,"Action, Adventure, Casual, Indie, RPG",14.99,Very Positive,78227,8029
-PUBG: BATTLEGROUNDS,578080,0.0,0.0,0.0,7211.0,1642328763.0,0.0,"Action, Adventure, Massively Multiplayer, Free To Play",0.0,Mixed,964439,772380
-Stardew Valley,413150,4210.0,1742245126.0,0.0,6808.0,1739680832.0,0.0,"Indie, RPG, Simulation",14.99,Overwhelmingly Positive,737076,11386
-The Elder Scrolls V: Skyrim,72850,0.0,0.0,0.0,5971.0,1675764668.0,0.0,RPG,19.99,Very Positive,171158,9939
-Persona 3 Reload,2161700,0.0,0.0,0.0,5259.0,1721426784.0,0.0,"Adventure, RPG, Strategy",34.99,Overwhelmingly Positive,26584,1364
-Unturned,304930,74.0,1497399220.0,0.0,5215.0,1659058238.0,0.0,"Action, Adventure, Casual, Indie, Free To Play",0.0,Very Positive,6883,701
-Duck Game,312530,0.0,0.0,0.0,4999.0,1619929206.0,0.0,"Action, Indie",12.99,Overwhelmingly Positive,24141,696
-Mirror's Edge,17410,0.0,0.0,0.0,4629.0,1536070726.0,0.0,"Action, Adventure",19.99,Very Positive,25864,3695
-Cyberpunk 2077,1091500,0.0,0.0,0.0,4621.0,1731187187.0,0.0,RPG,59.99,Very Positive,632816,108249
-Marvel Rivals,2767030,94.0,1744251261.0,0.0,4612.0,1744488656.0,0.0,"Action, Free To Play",0.0,No user reviews,0,0
-Sekiro™: Shadows Die Twice,814380,0.0,0.0,0.0,4216.0,1720056906.0,0.0,"Action, Adventure",59.99,Overwhelmingly Positive,221260,11502
-Risk of Rain 2,632360,4959.0,1741041340.0,0.0,4166.0,1724884088.0,0.0,"Action, Indie",24.99,Very Positive,196021,13792
-Clustertruck,397950,97.0,1603144590.0,0.0,4144.0,1612343837.0,0.0,"Action, Indie",14.99,Very Positive,12622,834
-Starfield,1716740,0.0,0.0,0.0,3738.0,1695756713.0,0.0,RPG,69.99,Mixed,63492,44436
-The Elder Scrolls Online,306130,0.0,0.0,0.0,3547.0,1675461996.0,0.0,"Action, Adventure, Massively Multiplayer, RPG",19.99,Very Positive,105305,21625
-Magicite,268750,0.0,0.0,0.0,3427.0,1454299459.0,0.0,"Action, Adventure, Indie, RPG",9.99,Very Positive,4953,833
-Reign Of Kings,344760,0.0,0.0,0.0,3402.0,1509680740.0,0.0,"Action, Adventure, Indie, RPG, Simulation",9.99,Mixed,6787,5129
-Ben and Ed,395200,0.0,0.0,0.0,3242.0,1574382840.0,0.0,"Action, Adventure, Indie",9.99,Very Positive,3029,658
-Monster Hunter: World,582010,0.0,0.0,0.0,3109.0,1740179566.0,0.0,Action,9.89,Very Positive,263116,32266
-Evoland 2,359310,0.0,0.0,0.0,2968.0,1712632698.0,0.0,"Action, Adventure, Indie, RPG",19.99,Very Positive,1589,202
-Monster Hunter Wilds,2246340,0.0,0.0,0.0,2789.0,1742523489.0,0.0,"Action, Adventure, RPG",69.99,Mixed,81249,46573
-Apex Legends,1172470,827.0,1690503385.0,0.0,2654.0,1742708936.0,0.0,"Action, Adventure, Free To Play",0.0,Mostly Positive,1167,380
-Marauders,1789480,0.0,0.0,0.0,2630.0,1705272516.0,0.0,"Action, Early Access",29.99,Mostly Positive,9497,3487
-Sea of Thieves,1172620,0.0,0.0,0.0,2524.0,1662858726.0,0.0,"Action, Adventure",19.99,Very Positive,273412,31628
-Borderlands 2,49520,1996.0,1703814861.0,0.0,2432.0,1591054768.0,0.0,"Action, RPG",19.99,Very Positive,185299,10227
-Subnautica,264710,0.0,0.0,0.0,2394.0,1586418118.0,0.0,"Adventure, Indie",29.99,Overwhelmingly Positive,272432,8247
-The Forest,242760,880.0,1735970441.0,0.0,2365.0,1638671520.0,0.0,"Action, Adventure, Indie, Simulation",19.99,Overwhelmingly Positive,507589,23319
-HELLDIVERS™ 2,553850,0.0,0.0,0.0,2265.0,1716188657.0,0.0,Action,39.99,Mostly Positive,557283,166470
-Shovel Knight: Treasure Trove,250760,0.0,0.0,0.0,2134.0,1660851073.0,0.0,"Action, Adventure, Indie",39.99,Overwhelmingly Positive,12886,580
-Castle Crashers,204360,784.0,1690768017.0,0.0,2114.0,1630303719.0,0.0,"Action, Adventure, Casual, Indie, RPG",14.99,Overwhelmingly Positive,92392,3592
-Dragon's Dogma 2,2054970,0.0,0.0,0.0,2076.0,1711447220.0,0.0,"Action, RPG",39.89,Mixed,42925,26886
-Divinity: Original Sin 2,435150,0.0,0.0,0.0,1931.0,1704024951.0,0.0,"Adventure, RPG, Strategy",44.99,Overwhelmingly Positive,158330,7077
-The Binding of Isaac: Rebirth,250900,0.0,0.0,0.0,1921.0,1567042021.0,0.0,Action,14.99,Overwhelmingly Positive,299238,7994
-Remnant: From the Ashes,617290,0.0,0.0,0.0,1796.0,1684195856.0,0.0,"Action, Adventure, RPG",39.99,Very Positive,36944,6431
-Core Keeper,1621690,133.0,1742870339.0,0.0,1786.0,1725474466.0,0.0,"Adventure, Casual, Indie, RPG",19.99,Very Positive,38058,3013
-Ring of Elysium,755790,0.0,0.0,0.0,1703.0,1575010205.0,0.0,"Action, Free To Play, Massively Multiplayer",0.0,Mostly Positive,521,192
-Portal 2,620,145.0,1701294866.0,0.0,1673.0,1594423044.0,0.0,"Action, Adventure",9.99,Overwhelmingly Positive,353384,4613
-Undertale,391540,0.0,0.0,0.0,1662.0,1618591702.0,0.0,"Indie, RPG",9.99,Overwhelmingly Positive,231488,7562
-Hero Siege,269210,0.0,0.0,0.0,1629.0,1528380962.0,0.0,"Action, Adventure, Indie, Massively Multiplayer, RPG",7.99,Mixed,22704,10335
-ORION: Prelude,104900,0.0,0.0,0.0,1536.0,1483063236.0,0.0,"Action, Adventure, Indie, RPG",0.99,Mostly Positive,14814,4307
-bit Dungeon II,331440,0.0,0.0,0.0,1525.0,1567400486.0,0.0,"Action, Adventure, Indie, RPG",3.99,Very Positive,1161,238
-Left 4 Dead 2,550,60.0,1696656868.0,0.0,1494.0,1679216643.0,0.0,Action,9.99,Overwhelmingly Positive,710163,17442
-Roguelands,364420,0.0,0.0,0.0,1472.0,1619390455.0,0.0,"Action, Adventure, Indie, RPG",9.99,Very Positive,2346,567
-God of War,1593500,0.0,0.0,0.0,1437.0,1669686581.0,0.0,"Action, Adventure, RPG",49.99,Overwhelmingly Positive,105715,4328
-Path of Exile 2,2694490,2419.0,1735155160.0,0.0,1432.0,1743974788.0,0.0,"Action, Adventure, Massively Multiplayer, RPG, Early Access",29.99,Mostly Positive,90215,33803
-Remnant II,1282100,4056.0,1715564452.0,0.0,1332.0,1690438408.0,0.0,"Action, Adventure, RPG",49.99,Very Positive,33972,6542
-Valheim,892970,16931.0,1743879839.0,0.0,1323.0,1723849691.0,0.0,"Action, Adventure, Indie, RPG, Early Access",19.99,Very Positive,399591,23074
-Metro Exodus,412020,0.0,0.0,0.0,1307.0,1643973012.0,0.0,Action,29.99,Very Positive,93647,10553
-Warframe,230410,378.0,1712879226.0,0.0,1281.0,1640076786.0,0.0,"Action, RPG, Free To Play",0.0,Very Positive,2533,354
-Blasphemous,774361,0.0,0.0,0.0,1156.0,1712525201.0,0.0,"Action, Adventure, Indie",24.99,Very Positive,36624,3790
-GUILTY GEAR -STRIVE-,1384160,0.0,0.0,0.0,1150.0,1734349487.0,0.0,Action,39.99,Very Positive,37193,4705
-Air Brawl,375600,0.0,0.0,0.0,1143.0,1600701252.0,0.0,"Action, Indie",0.0,Mostly Positive,239,82
-Inscryption,1092790,0.0,0.0,0.0,1135.0,1737776887.0,0.0,"Adventure, Indie, Strategy",19.99,Overwhelmingly Positive,115801,3695
-Viscera Cleanup Detail: Santa's Rampage,265210,0.0,0.0,0.0,1081.0,1484712211.0,0.0,"Gore, Indie, Simulation",2.49,Very Positive,4038,357
-Metaphor: ReFantazio,2679460,63.0,1735788235.0,0.0,1066.0,1731984963.0,0.0,"Action, Adventure, RPG",69.99,Very Positive,17521,1681
-Palworld,1623730,3286.0,1734571549.0,0.0,1044.0,1724735024.0,0.0,"Action, Adventure, Indie, RPG, Early Access",29.99,Very Positive,300389,18981
-Trove,304050,503.0,1652332039.0,0.0,1039.0,1567535025.0,0.0,"Action, Adventure, Casual, Massively Multiplayer, RPG, Free To Play",0.0,Mostly Positive,751,225
-Overgrowth,25000,0.0,0.0,0.0,1029.0,1642407653.0,0.0,"Action, Indie",19.99,Very Positive,4807,808
-Warface: Clutch,291480,0.0,0.0,0.0,1025.0,1642404213.0,0.0,"Action, Massively Multiplayer, Free To Play",0.0,Mixed,551,369
-Among Us,945360,1667.0,1703578934.0,0.0,991.0,1674463632.0,0.0,Casual,4.99,Very Positive,567096,48151
-Savage Lands,307880,0.0,0.0,0.0,930.0,1567490155.0,0.0,"Action, Adventure, Indie, RPG, Simulation",3.99,Mixed,2382,1802
-Windlands,428370,0.0,0.0,0.0,928.0,1584395326.0,0.0,"Adventure, Indie",19.99,Mostly Positive,608,180
-Halo: The Master Chief Collection,976730,108.0,1679122785.0,0.0,924.0,1599509879.0,0.0,Action,9.99,Very Positive,202694,16408
-The Outlast Trials,1304930,1289.0,1685728853.0,0.0,905.0,1720431271.0,0.0,"Action, Adventure, Indie",39.99,Very Positive,51050,3486
-Aseprite,431730,181.0,1732260948.0,0.0,874.0,1732080424.0,0.0,"Animation & Modeling, Design & Illustration, Game Development",19.99,Overwhelmingly Positive,16781,153
-Feed and Grow: Fish,429050,0.0,0.0,0.0,855.0,1605302735.0,0.0,"Action, Indie, Simulation, Early Access",14.99,Mostly Positive,13923,3924
-Salt and Sanctuary,283640,0.0,0.0,0.0,855.0,1589021232.0,0.0,"Action, Indie, RPG",17.99,Very Positive,16826,2005
-BattleBit Remastered,671860,90.0,1689897074.0,0.0,847.0,1691181282.0,0.0,"Action, Massively Multiplayer, Early Access",14.99,Very Positive,106274,17487
-R.E.P.O.,3241660,0.0,0.0,0.0,842.0,1743229833.0,0.0,"Action, Early Access",9.99,Overwhelmingly Positive,113805,4146
-Chivalry: Medieval Warfare,219640,0.0,0.0,0.0,834.0,1577076812.0,0.0,"Action, Indie",4.99,Very Positive,37296,7497
-Cube World,1128000,0.0,0.0,0.0,799.0,1694776406.0,0.0,"Adventure, Indie, RPG",19.99,Mixed,4244,5518
-Dead Cells,588650,0.0,0.0,0.0,799.0,1648012390.0,0.0,"Action, Adventure, Indie",24.99,Overwhelmingly Positive,138073,4143
-Don't Starve Together,322330,77.0,1673128931.0,0.0,788.0,1683657766.0,0.0,"Action, Adventure, Indie, RPG, Simulation, Strategy",14.99,Overwhelmingly Positive,323796,15735
-Fall Guys,1097150,746.0,1658204191.0,0.0,786.0,1656227502.0,0.0,"Action, Casual, Indie, Massively Multiplayer, Sports",0.0,Very Positive,341141,75592
-Stick Fight: The Game,674940,316.0,1656394353.0,0.0,772.0,1640338581.0,0.0,"Action, Casual, Indie",4.99,Very Positive,91514,6176
-Nomad,378370,0.0,0.0,0.0,767.0,1488775302.0,0.0,"Action, Adventure, Indie, Massively Multiplayer, RPG, Free To Play, Early Access",0.0,Mixed,255,131
-Muse Dash,774171,0.0,0.0,0.0,764.0,1712632457.0,0.0,"Action, Casual, Indie",2.99,Very Positive,95924,9319
-ASTRONEER,361420,0.0,0.0,0.0,762.0,1653453863.0,0.0,"Adventure, Indie",29.99,Very Positive,101234,8525
-Cobalt,357340,0.0,0.0,0.0,762.0,1505691094.0,0.0,"Action, Adventure, Indie",14.99,Very Positive,295,26
-Forge Quest,249950,0.0,0.0,0.0,758.0,1661331596.0,0.0,"Action, Adventure, Indie, RPG",0.99,Mostly Positive,350,89
-Steep Open Beta,550040,0.0,0.0,0.0,749.0,1479698117.0,0.0,,,No user reviews,0,0
-Hades,1145360,152.0,1672476547.0,0.0,736.0,1642853495.0,0.0,"Action, Indie, RPG",24.99,Overwhelmingly Positive,252938,4515
-Risk of Rain Returns,1337520,1104.0,1700887282.0,0.0,735.0,1699764461.0,0.0,Action,14.99,Very Positive,21695,2407
-Clicker Guild,557810,0.0,0.0,0.0,729.0,1483052702.0,0.0,Free To Play,0.0,Mixed,21,17
-Depth,274940,0.0,0.0,0.0,728.0,1493594550.0,0.0,"Action, Indie",19.99,Very Positive,20903,2420
-Robocraft,301520,0.0,0.0,0.0,724.0,1538970983.0,0.0,"Action, Indie, Massively Multiplayer, RPG, Simulation, Free To Play",0.0,Mixed,1610,826
-Assassin's Creed Odyssey,812140,0.0,0.0,0.0,719.0,1609891712.0,0.0,"Action, Adventure, RPG",59.99,Very Positive,138699,16675
-Sons Of The Forest,1326470,2158.0,1736131158.0,0.0,712.0,1708752242.0,0.0,"Action, Adventure, Indie, Simulation",29.99,Very Positive,195877,27061
-Raft,648800,0.0,0.0,0.0,701.0,1643523439.0,0.0,"Adventure, Indie, Simulation",19.99,Very Positive,273975,19172
-OUTRIDERS,680420,0.0,0.0,0.0,686.0,1618808779.0,0.0,"Action, Adventure, RPG",19.99,Mixed,30201,15263
-Cuphead,268910,618.0,1695942648.0,0.0,682.0,1535766663.0,0.0,"Action, Indie",19.99,Overwhelmingly Positive,157697,5821
-FINAL FANTASY XIV Online,39210,0.0,0.0,0.0,680.0,1711871143.0,0.0,"Massively Multiplayer, RPG",19.99,Very Positive,63984,9045
-Portal Knights,374040,0.0,0.0,0.0,676.0,1564456136.0,0.0,"Action, Adventure, RPG",3.99,Very Positive,13686,2632
-Elite Dangerous,359320,0.0,0.0,0.0,673.0,1457190573.0,0.0,"Action, Adventure, Massively Multiplayer, RPG, Simulation, Strategy",19.99,Mostly Positive,58095,17745
-OMORI,1150690,36.0,1706489413.0,0.0,667.0,1725828142.0,0.0,"Adventure, Indie, RPG",19.99,Overwhelmingly Positive,69635,1906
-Toribash,248570,0.0,0.0,0.0,659.0,1475972586.0,0.0,"Action, Indie, Strategy, Free To Play",0.0,Very Positive,125,22
-Half-Life 2,220,0.0,0.0,0.0,656.0,1585114037.0,0.0,Action,9.99,Overwhelmingly Positive,175214,4184
-Marvel Heroes Omega,226320,0.0,0.0,0.0,633.0,1463950170.0,0.0,,,Mostly Negative,275,490
-SMITE,386360,0.0,0.0,0.0,607.0,1612077159.0,0.0,"Action, Adventure, Casual, Massively Multiplayer, RPG, Strategy, Free To Play",0.0,Mostly Positive,1120,283
-Lost Ark,1599340,0.0,0.0,0.0,586.0,1645426678.0,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",0.0,Mixed,45151,19900
-Ori and the Will of the Wisps,1057090,0.0,0.0,0.0,572.0,1648017170.0,0.0,Action,9.89,Overwhelmingly Positive,122018,4312
-PAYDAY 2,218620,18.0,1577667634.0,0.0,567.0,1578258426.0,0.0,"Action, RPG",9.99,Very Positive,392253,42982
-Tom Clancy's Rainbow Six Siege - Test Server,623990,1468.0,1597953345.0,0.0,566.0,1535309004.0,0.0,,,No user reviews,0,0
-Necesse,1169040,2305.0,1736389650.0,0.0,561.0,1675941940.0,0.0,"Action, Adventure, Indie, RPG, Early Access",14.99,Very Positive,13171,826
-The Elder Scrolls V: Skyrim Special Edition,489830,0.0,0.0,0.0,555.0,1703678420.0,0.0,RPG,39.99,Very Positive,176447,10421
-Goat Simulator,265930,0.0,0.0,0.0,555.0,1693465473.0,0.0,"Casual, Indie, Simulation",9.99,Very Positive,48027,5055
-Hades II,1145350,0.0,0.0,0.0,550.0,1737519969.0,0.0,"Action, Indie, RPG, Early Access",29.99,Very Positive,56307,3038
-STAR WARS Jedi: Fallen Order™ ,1172380,480.0,1577762134.0,0.0,548.0,1575349284.0,0.0,"Action, Adventure",39.99,Very Positive,120057,15703
-GRAV,332500,0.0,0.0,0.0,536.0,1470459075.0,0.0,"Action, Adventure, Indie, RPG, Early Access",19.99,Mixed,2242,2212
-No Man's Sky,275850,0.0,0.0,0.0,511.0,1722665973.0,0.0,"Action, Adventure",59.99,Very Positive,215719,49238
-Ori and the Blind Forest: Definitive Edition,387290,0.0,0.0,0.0,508.0,1607970972.0,0.0,Action,3.99,Overwhelmingly Positive,55470,2820
-Geometry Dash,322170,0.0,0.0,0.0,503.0,1708621802.0,0.0,"Action, Indie",4.99,Very Positive,357239,24810
-Edge of Space,238240,0.0,0.0,0.0,499.0,1486053266.0,0.0,"Action, Adventure, Indie, RPG",14.99,Mostly Negative,626,1316
-The Culling,437220,0.0,0.0,0.0,494.0,1492135573.0,0.0,"Action, Free To Play, Indie",0.0,Mixed,7415,5285
-ESEA,479130,0.0,0.0,0.0,490.0,1531360306.0,0.0,Utilities,0.0,Mixed,152,69
-SNOW,244930,0.0,0.0,0.0,482.0,1510442472.0,0.0,"Casual, Indie, Simulation, Sports",0.0,Mixed,1393,841
-Hogwarts Legacy,990080,383.0,1677274113.0,0.0,476.0,1676297380.0,0.0,"Action, Adventure, RPG",59.99,Very Positive,207993,21978
-Subnautica: Below Zero,848450,0.0,0.0,0.0,469.0,1621278390.0,0.0,"Adventure, Indie",29.99,Very Positive,79914,8213
-Golf With Your Friends,431240,1239.0,1742616651.0,0.0,469.0,1742616997.0,0.0,"Casual, Indie, Sports",4.79,Very Positive,39360,4766
-Slapshot: Rebound,1173370,0.0,0.0,0.0,466.0,1692772479.0,0.0,"Action, Casual, Indie, Sports, Free To Play",0.0,Positive,17,1
-Stranded Deep,313120,0.0,0.0,0.0,460.0,1640065150.0,0.0,"Adventure, Indie",19.99,Mostly Positive,31337,10362
-Enter the Gungeon,311690,0.0,0.0,0.0,435.0,1619904306.0,0.0,"Action, Adventure, Indie",14.99,Overwhelmingly Positive,71616,3295
-Totally Accurate Battlegrounds,823130,164.0,1663099344.0,0.0,434.0,1714508377.0,0.0,"Action, Indie, Free To Play",0.0,Very Positive,13856,1721
-Creativerse,280790,31.0,1452111792.0,0.0,432.0,1606009246.0,0.0,"Action, Adventure, Casual, Indie, Massively Multiplayer, RPG, Simulation",24.99,Mostly Positive,2017,563
-PlanetSide 2,218230,0.0,0.0,0.0,432.0,1503778021.0,0.0,"Action, Massively Multiplayer, Free To Play",0.0,Mostly Positive,423,157
-Wizard of Legend,445980,0.0,0.0,0.0,429.0,1657255734.0,0.0,"Action, Adventure, Indie",15.99,Very Positive,15377,1432
-Evoland,233470,0.0,0.0,0.0,425.0,1455600596.0,0.0,"Adventure, Indie, RPG",9.99,Very Positive,3734,739
-Slime Rancher,433340,0.0,0.0,0.0,425.0,1472743604.0,0.0,"Action, Adventure, Indie, Simulation",19.99,Overwhelmingly Positive,118776,2462
-For Honor,304390,0.0,0.0,0.0,425.0,1684376547.0,0.0,Action,29.99,Mixed,66779,28746
-Backrooms: Escape Together,2141730,0.0,0.0,0.0,422.0,1720333388.0,0.0,"Action, Adventure, Casual, Indie, Early Access",9.99,Very Positive,15775,2258
-Titanfall® 2,1237970,0.0,0.0,0.0,420.0,1625557333.0,0.0,Action,29.99,Overwhelmingly Positive,214343,10260
-Brawlhalla,291550,99.0,1571019941.0,0.0,420.0,1694150677.0,0.0,"Action, Indie, Free To Play",0.0,Very Positive,2453,438
-Halo Infinite,1240440,148.0,1689909903.0,0.0,397.0,1637489098.0,0.0,"Action, Free To Play",0.0,Mixed,22489,10020
-ARK: Survival Ascended,2399830,5701.0,1717097715.0,0.0,387.0,1740040807.0,0.0,"Action, Adventure, Indie, Massively Multiplayer, RPG, Early Access",44.99,Mixed,40134,27412
-Hand Simulator,657200,0.0,0.0,0.0,376.0,1577083293.0,0.0,Simulation,2.99,Very Positive,24187,4481
-The Escapists 2,641990,0.0,0.0,0.0,370.0,1619814784.0,0.0,"Indie, Simulation, Strategy",19.99,Very Positive,22745,2257
-Moon Hunters,320040,0.0,0.0,0.0,367.0,1659769911.0,0.0,"Adventure, Indie, RPG",14.99,Mostly Positive,3023,776
-A Story About My Uncle,278360,0.0,0.0,0.0,366.0,1535775000.0,0.0,"Adventure, Casual, Indie",14.99,Very Positive,11225,876
-DOOM Eternal,782330,0.0,0.0,0.0,358.0,1654662963.0,0.0,Action,39.99,Very Positive,158722,14598
-The Elder Scrolls IV: Oblivion Remastered,2623190,0.0,0.0,0.0,351.0,1745711633.0,351.0,RPG,49.99,Very Positive,25089,5318
-Clair Obscur: Expedition 33,1903340,0.0,0.0,0.0,347.0,1745905754.0,347.0,"Action, RPG",44.99,Very Positive,17696,1430
-Zero Hour,1359090,0.0,0.0,0.0,345.0,1636269237.0,0.0,"Action, Simulation, Strategy",9.99,Mostly Positive,21623,5456
-My Friend Pedro,557340,0.0,0.0,0.0,342.0,1609479817.0,0.0,"Action, Indie",3.99,Overwhelmingly Positive,22581,938
-Paint the Town Red,337320,0.0,0.0,0.0,336.0,1619932901.0,0.0,"Action, Indie",19.99,Overwhelmingly Positive,25435,1028
-Minecraft Dungeons,1672970,0.0,0.0,0.0,334.0,1672401759.0,0.0,"Action, Adventure, RPG",19.99,Very Positive,11416,1098
-Bloons TD 6,960090,1958.0,1687564918.0,0.0,329.0,1732389136.0,0.0,Strategy,13.99,Overwhelmingly Positive,302596,8312
-20 Minutes Till Dawn,1966900,0.0,0.0,0.0,322.0,1700447682.0,0.0,"Action, Adventure, Casual, Indie, Strategy",4.99,Very Positive,24165,2238
-V Rising,1604030,482.0,1683521311.0,0.0,321.0,1702063891.0,0.0,"Action, Adventure, Massively Multiplayer",17.49,Very Positive,83400,10113
-Song of Nunu: A League of Legends Story,1333200,0.0,0.0,0.0,321.0,1699329494.0,0.0,Adventure,29.99,Very Positive,2234,123
-Enshrouded,1203620,836.0,1745127497.0,11.0,321.0,1706278837.0,0.0,"Action, Adventure, RPG, Early Access",29.99,Very Positive,58381,8964
-Cassette Beasts,1321440,0.0,0.0,0.0,313.0,1697076086.0,0.0,"Indie, RPG",19.99,Overwhelmingly Positive,7167,349
-Northgard,466560,0.0,0.0,0.0,309.0,1662681245.0,0.0,"Adventure, Indie, Simulation, Strategy",29.99,Very Positive,44025,6876
-Beat Saber,620980,0.0,0.0,0.0,307.0,1606356424.0,0.0,Indie,29.99,Overwhelmingly Positive,65125,2934
-Steep,460920,0.0,0.0,0.0,305.0,1584266990.0,0.0,"Action, Sports",29.99,Very Positive,23285,5016
-Planet Explorers,237870,0.0,0.0,0.0,301.0,1483231034.0,0.0,"Action, Adventure, Indie, RPG, Simulation",0.0,Mixed,3145,1993
-Rubber Bandits: Christmas Prologue,1469250,0.0,0.0,0.0,295.0,1623826607.0,0.0,"Action, Free To Play",0.0,No user reviews,0,0
-Gray Zone Warfare,2479810,0.0,0.0,0.0,293.0,1714864599.0,0.0,"Action, Massively Multiplayer, Early Access",34.99,Mixed,34736,17096
-Project Zomboid,108600,0.0,0.0,0.0,292.0,1742712948.0,0.0,"Indie, RPG, Simulation, Early Access",19.99,Very Positive,266434,15155
-bit Dungeon III,856210,0.0,0.0,0.0,288.0,1643009360.0,0.0,"Action, Adventure, Indie, Massively Multiplayer, RPG",9.99,Mostly Positive,104,30
-Magicka 2,238370,0.0,0.0,0.0,281.0,1473807200.0,0.0,"Action, Adventure",14.99,Very Positive,7492,1562
-A Dance of Fire and Ice,977950,0.0,0.0,0.0,279.0,1712632021.0,0.0,Indie,5.99,Very Positive,64007,3990
-UNBEATABLE [white label],1290490,0.0,0.0,0.0,279.0,1707031088.0,0.0,"Action, Adventure, Indie",0.0,No user reviews,0,0
-ASKA,1898300,0.0,0.0,0.0,278.0,1720753559.0,0.0,"Adventure, Simulation, Strategy, Early Access",24.99,Mostly Positive,4657,1212
-Stay Close,455120,0.0,0.0,0.0,274.0,1589017811.0,0.0,"Action, Adventure, Indie",8.99,Mixed,910,551
-Lethal Company,1966720,3091.0,1735363903.0,0.0,270.0,1705477198.0,0.0,"Action, Adventure, Indie, Early Access",9.99,Overwhelmingly Positive,380450,10747
-We Need To Go Deeper,307110,0.0,0.0,0.0,268.0,1669195387.0,0.0,"Action, Indie, Simulation",15.99,Very Positive,3934,564
-Tribes of Midgard,858820,0.0,0.0,0.0,265.0,1691040676.0,0.0,"Action, Adventure, Indie, RPG",19.99,Mostly Positive,12867,3955
-Rampage Knights,314410,0.0,0.0,0.0,264.0,1476067411.0,0.0,"Action, Adventure, Indie, RPG",12.99,Very Positive,1998,147
-OCTOPATH TRAVELER II,1971650,0.0,0.0,0.0,264.0,1679714477.0,0.0,RPG,29.99,Very Positive,10075,564
-Mortal Sin,1494810,0.0,0.0,0.0,260.0,1720492037.0,0.0,"Action, Indie, RPG, Early Access",19.99,Overwhelmingly Positive,2851,120
-Paladins,444090,1.0,1499484440.0,0.0,255.0,1587356977.0,0.0,"Action, Adventure, Massively Multiplayer, Strategy, Free To Play",0.0,Very Positive,7341,1482
-"Star Wars: Battlefront 2 (Classic, 2005)",6060,0.0,0.0,0.0,253.0,1482472487.0,0.0,Action,2.49,Very Positive,42740,2527
-Green Hell,815370,0.0,0.0,0.0,248.0,1674200665.0,0.0,"Action, Adventure, Indie, Simulation",24.99,Very Positive,52047,8090
-Divinity: Original Sin Enhanced Edition,373420,0.0,0.0,0.0,247.0,1593209681.0,0.0,"Adventure, Indie, RPG, Strategy",39.99,Very Positive,21198,2571
-Metro: Last Light Redux,287390,0.0,0.0,0.0,245.0,1546031057.0,0.0,Action,19.99,Very Positive,54886,5644
-Grand Theft Auto V Legacy,271590,711.0,1698718555.0,0.0,244.0,1596975613.0,0.0,"Action, Adventure",0.0,Very Positive,1589730,222430
-Unfortunate Spacemen,408900,0.0,0.0,0.0,237.0,1594171433.0,0.0,"Action, Indie, Strategy, Free To Play",0.0,Very Positive,209,46
-Splitgate,677620,785.0,1629225558.0,0.0,235.0,1629862122.0,0.0,"Action, Free To Play, Indie",0.0,Very Positive,157,10
-SCP: Secret Laboratory,700330,0.0,0.0,0.0,235.0,1719794504.0,0.0,"Action, Free To Play",0.0,No user reviews,0,0
-Path of Exile,238960,7.0,1685918925.0,0.0,235.0,1704094571.0,0.0,"Action, Adventure, Indie, Massively Multiplayer, RPG, Free To Play",0.0,Very Positive,960,79
-We Were Here Together,865360,0.0,0.0,0.0,233.0,1641115060.0,0.0,"Adventure, Casual, Indie",12.99,Very Positive,10861,2079
-Sword With Sauce,581630,0.0,0.0,0.0,233.0,1563166339.0,0.0,"Action, Casual",4.99,Very Positive,4968,803
-BattleBlock Theater,238460,140.0,1674689552.0,0.0,228.0,1474688484.0,0.0,"Action, Adventure, Casual, Indie",14.99,Overwhelmingly Positive,52984,1573
-FragPunk,2943650,73.0,1742353143.0,0.0,228.0,1741756907.0,0.0,"Action, Free To Play",0.0,Very Positive,1341,199
-GTFO,493520,0.0,0.0,0.0,225.0,1620181495.0,0.0,Action,39.99,Very Positive,36960,5276
-The Elder Scrolls IV: Oblivion Game of the Year Edition (2009),22330,0.0,0.0,0.0,222.0,1484771248.0,0.0,,,Overwhelmingly Positive,38450,1915
-Deadlock,1422450,14.0,1730012989.0,0.0,222.0,1725262107.0,0.0,,,No user reviews,0,0
-Clicker Heroes,363970,48.0,1576193728.0,0.0,219.0,1564342232.0,0.0,,,Very Positive,698,69
-Fistful of Frags,265630,0.0,0.0,0.0,217.0,1595918039.0,0.0,,,Very Positive,423,56
-Gunfire Reborn,1217060,3689.0,1744583237.0,0.0,213.0,1626437637.0,0.0,,,Very Positive,79083,5544
-MultiVersus,1818750,366.0,1659153387.0,0.0,212.0,1659856661.0,0.0,,,Mostly Positive,4415,1691
-Argo,530700,0.0,0.0,0.0,212.0,1565488839.0,0.0,,,Mixed,13,9
-Dragon's Dogma 2 Character Creator & Storage,2674810,0.0,0.0,0.0,206.0,1711065511.0,0.0,,,No user reviews,0,0
-Persona 5 Royal,1687950,0.0,0.0,0.0,202.0,1721966033.0,0.0,,,Overwhelmingly Positive,64659,2241
-New World: Aeternum,1063730,324.0,1641167875.0,0.0,200.0,1633204081.0,0.0,,,Mixed,168167,77037
-ANIMAL WELL,813230,0.0,0.0,0.0,199.0,1716278255.0,0.0,,,Overwhelmingly Positive,18141,772
-Dig or Die,315460,0.0,0.0,0.0,196.0,1569023285.0,0.0,,,Very Positive,3410,358
-Infestation: The New Z,555570,0.0,0.0,0.0,193.0,1489378164.0,0.0,,,Mixed,1018,1178
-Deceit,466240,0.0,0.0,0.0,188.0,1573535315.0,0.0,,,Mixed,1467,1044
-Dirty Bomb,333930,0.0,0.0,0.0,185.0,1471294810.0,0.0,,,Very Positive,1040,235
-Welkin Road,432720,0.0,0.0,0.0,185.0,1571204738.0,0.0,,,Mixed,29,14
-s&box,590830,0.0,0.0,0.0,184.0,1722651107.0,0.0,,,No user reviews,0,0
-Slay the Spire,646570,0.0,0.0,0.0,182.0,1713056648.0,0.0,,,Overwhelmingly Positive,152595,3404
-Phasmophobia,739630,5415.0,1724203853.0,0.0,182.0,1602308679.0,0.0,,,Overwhelmingly Positive,598215,24775
-Insurgency,222880,0.0,0.0,0.0,180.0,1582176403.0,0.0,,,Very Positive,79565,6894
-Operation Tango,1335790,0.0,0.0,0.0,178.0,1641174658.0,0.0,,,Very Positive,5611,781
-Batla,338180,0.0,0.0,0.0,177.0,1453259524.0,0.0,,,Mixed,28,13
-STALCRAFT: X,1818450,0.0,0.0,0.0,176.0,1692925959.0,0.0,,,3 user reviews,3,0
-Don't Starve,219740,0.0,0.0,0.0,176.0,1427251478.0,0.0,,,Overwhelmingly Positive,90005,3156
-The Blackout Club,599080,0.0,0.0,0.0,171.0,1588060574.0,0.0,,,Mostly Positive,1713,461
-Rock of Ages,22230,0.0,0.0,0.0,171.0,1609903967.0,0.0,,,Very Positive,2808,251
-Cult of the Lamb,1313140,0.0,0.0,0.0,170.0,1683280011.0,0.0,,,Overwhelmingly Positive,84419,3955
-VRChat,438100,0.0,0.0,0.0,170.0,1657620200.0,0.0,,,Very Positive,124,25
-Demonologist,1929610,0.0,0.0,0.0,169.0,1680411072.0,0.0,,,Very Positive,14592,2276
-Chained Together,2567870,0.0,0.0,0.0,168.0,1719991357.0,0.0,,,Very Positive,40551,4057
-Galcon 2,294160,0.0,0.0,0.0,167.0,1513814654.0,0.0,,,3 user reviews,2,1
-ENDER LILIES: Quietus of the Knights,1369630,0.0,0.0,0.0,165.0,1650157214.0,0.0,,,Very Positive,34319,2170
-ULTRAKILL,1229490,0.0,0.0,0.0,161.0,1672646913.0,0.0,,,Overwhelmingly Positive,141680,3159
-UNBEATABLE Demo,3595150,0.0,0.0,0.0,161.0,1744967989.0,161.0,,,No user reviews,0,0
-Bloody Trapland,257750,0.0,0.0,0.0,161.0,1566345449.0,0.0,,,Very Positive,2263,468
-Metro 2033 Redux,286690,0.0,0.0,0.0,161.0,1584254192.0,0.0,,,Very Positive,74631,7614
-DARK SOULS™ II: Scholar of the First Sin,335300,0.0,0.0,0.0,160.0,1593226792.0,0.0,,,Very Positive,62016,11031
-Crashlands,391730,0.0,0.0,0.0,159.0,1470110465.0,0.0,,,Very Positive,4595,490
-Blood and Bacon,434570,0.0,0.0,0.0,158.0,1595935660.0,0.0,,,Overwhelmingly Positive,25351,1163
-Black Desert,582660,0.0,0.0,0.0,156.0,1674528779.0,0.0,,,Mostly Positive,44528,14180
-THRONE AND LIBERTY,2429640,0.0,0.0,0.0,156.0,1727847986.0,0.0,,,Mostly Positive,7689,2897
-TUG,277930,0.0,0.0,0.0,152.0,1447469138.0,0.0,,,Mostly Negative,223,438
-Spore: Creepy & Cute Parts Pack,17440,0.0,0.0,0.0,149.0,1472358489.0,0.0,,,Very Positive,1672,208
-Akane,884260,0.0,0.0,0.0,148.0,1680910708.0,0.0,,,Overwhelmingly Positive,2518,116
-Starbound - Unstable,367540,0.0,0.0,0.0,146.0,1492645708.0,0.0,,,No user reviews,0,0
-Forward: Escape the Fold - Ultimate Edition,1766390,0.0,0.0,0.0,146.0,1713058432.0,0.0,,,Very Positive,500,84
-Archvale,1296360,0.0,0.0,0.0,145.0,1642577533.0,0.0,,,Very Positive,1691,206
-Soda Dungeon,564710,0.0,0.0,0.0,143.0,1489897182.0,0.0,,,Very Positive,729,50
-Nether,247730,0.0,0.0,0.0,136.0,1584268402.0,0.0,,,Mixed,5574,8247
-Scrap Mechanic,387990,0.0,0.0,0.0,134.0,1613378142.0,0.0,,,Very Positive,93059,7541
-DiggerOnline,278970,0.0,0.0,0.0,130.0,1470358724.0,0.0,,,Mixed,762,424
-Content Warning,2881650,173.0,1713475355.0,0.0,129.0,1712211367.0,0.0,,,Very Positive,53470,3270
-A Hat in Time,253230,0.0,0.0,0.0,128.0,1557045046.0,0.0,,,Overwhelmingly Positive,40484,827
-KurtzPel,844870,0.0,0.0,0.0,127.0,1609982255.0,0.0,,,Mixed,32,26
-ShellShock Live,326460,3066.0,1653197091.0,0.0,124.0,1719795441.0,0.0,,,Very Positive,26871,1868
-Ale & Tale Tavern,2683150,0.0,0.0,0.0,119.0,1741777974.0,0.0,,,Very Positive,5104,628
-AdVenture Capitalist,346900,0.0,0.0,0.0,119.0,1487717908.0,0.0,,,Very Positive,439,67
-Journey To The Savage Planet,973810,0.0,0.0,0.0,117.0,1612567530.0,0.0,,,Very Positive,4408,627
-Murder Miners,274900,432.0,1488755904.0,0.0,113.0,1471034468.0,0.0,,,Very Positive,3427,504
-The Escapists,298630,0.0,0.0,0.0,111.0,1437704633.0,0.0,,,Very Positive,12783,1360
-DeadCore,284460,0.0,0.0,0.0,110.0,1461379334.0,0.0,,,Very Positive,1350,221
-Empires Apart,530630,0.0,0.0,0.0,108.0,1550728242.0,0.0,,,Mixed,184,142
-LEGO® Star Wars™: The Skywalker Saga,920210,0.0,0.0,0.0,106.0,1649221996.0,0.0,,,Very Positive,32160,3159
-StarForge,227680,0.0,0.0,0.0,102.0,1482526119.0,0.0,,,Overwhelmingly Negative,926,6231
-Codename CURE,355180,0.0,0.0,0.0,98.0,1473381324.0,0.0,,,Very Positive,245,46
-Orcs Must Die! 2,201790,0.0,0.0,0.0,97.0,1530125689.0,0.0,,,Very Positive,11748,911
-Who's Your Daddy?!,427730,536.0,1529122099.0,0.0,95.0,1589016390.0,0.0,,,Very Positive,19691,4666
-ARK: Survival Of The Fittest,407530,0.0,0.0,0.0,95.0,1483327172.0,0.0,,,Mostly Positive,3289,1220
-Zort,3121110,0.0,0.0,0.0,94.0,1738658784.0,0.0,,,Very Positive,5900,425
-White Noise 2,503350,0.0,0.0,0.0,94.0,1562313431.0,0.0,,,Very Positive,1788,441
-Eldevin,298160,0.0,0.0,0.0,93.0,1434242493.0,0.0,,,Mixed,9,6
-Turbo Dismount,263760,0.0,0.0,0.0,91.0,1451018154.0,0.0,,,Very Positive,4850,334
-Little Nightmares,424840,0.0,0.0,0.0,90.0,1568071829.0,0.0,,,Very Positive,45328,2491
-Riders of Icarus,442080,0.0,0.0,0.0,89.0,1468650921.0,0.0,,,Mostly Positive,521,206
-Dishonored,205100,0.0,0.0,0.0,89.0,1530043659.0,0.0,,,Overwhelmingly Positive,60678,1529
-Chippy,602700,0.0,0.0,0.0,86.0,1621299727.0,0.0,,,Very Positive,907,89
-Genital Jousting,469820,0.0,0.0,0.0,86.0,1641267967.0,0.0,,,Very Positive,7825,644
-Citadel: Forged With Fire,487120,0.0,0.0,0.0,86.0,1502233988.0,0.0,,,Mixed,3378,1592
-IdleOn - The Idle RPG,1476970,3.0,1688166156.0,0.0,85.0,1618345084.0,0.0,,,No user reviews,0,0
-Deducto,1453490,0.0,0.0,0.0,82.0,1655972684.0,0.0,,,2 user reviews,1,1
-Spiral Knights,99900,0.0,0.0,0.0,82.0,1443627928.0,0.0,,,Very Positive,148,34
-Viscera Cleanup Detail: Shadow Warrior,255520,0.0,0.0,0.0,80.0,1561264052.0,0.0,,,Very Positive,1829,437
-Delver,249630,0.0,0.0,0.0,80.0,1439742752.0,0.0,,,Very Positive,2049,269
-Rec Room,471710,0.0,0.0,0.0,79.0,1624071993.0,0.0,,,Very Positive,109,1
-RuneScape,1343400,0.0,0.0,0.0,79.0,1608146134.0,0.0,,,Very Positive,69,13
-Helltaker,1289310,0.0,0.0,0.0,77.0,1607822726.0,0.0,,,Very Positive,394,5
-Darza's Dominion,1895130,0.0,0.0,0.0,76.0,1679697312.0,0.0,,,No user reviews,0,0
-The Cycle: Frontier,868270,0.0,0.0,0.0,74.0,1655602202.0,0.0,,,Mostly Positive,254,85
-Vampire: The Masquerade - Bloodhunt,760160,0.0,0.0,0.0,74.0,1651716365.0,0.0,,,No user reviews,0,0
-STAR WARS™: The Force Unleashed™ Ultimate Sith Edition,32430,0.0,0.0,0.0,72.0,1451173197.0,0.0,,,Mostly Positive,5869,1790
-Project Playtime,1961460,0.0,0.0,0.0,70.0,1674469016.0,0.0,,,No user reviews,0,0
-WEBFISHING,3146520,85.0,1735165798.0,0.0,69.0,1733561859.0,0.0,"Casual, Indie, Massively Multiplayer",4.99,Overwhelmingly Positive,51936,1041
-Cry of Fear,223710,0.0,0.0,0.0,67.0,1695704119.0,0.0,,,Mostly Positive,236,67
-NARUTO TO BORUTO: SHINOBI STRIKER,633230,0.0,0.0,0.0,67.0,1632705408.0,0.0,,,Very Positive,35669,6390
-Clatter,602770,0.0,0.0,0.0,67.0,1544752385.0,0.0,,,Very Positive,304,67
-Dead Frontier 2,744900,0.0,0.0,0.0,65.0,1578040168.0,0.0,,,No user reviews,0,0
-MOTHER,1381980,0.0,0.0,0.0,65.0,1609286214.0,0.0,,,Very Positive,321,40
-Crab Game,1782210,148.0,1658205279.0,0.0,63.0,1636264998.0,0.0,,,No user reviews,0,0
-VEILED EXPERTS,1934780,0.0,0.0,0.0,62.0,1684563582.0,0.0,,,No user reviews,0,0
-The Escape: Together,2242760,0.0,0.0,0.0,62.0,1710480716.0,0.0,,,Very Positive,1310,327
-Line of Sight,436520,0.0,0.0,0.0,61.0,1487725159.0,0.0,,,Mixed,1468,1184
-Death Must Die,2334730,130.0,1735010234.0,0.0,60.0,1702979526.0,0.0,,,Very Positive,17489,1680
-Granny Simulator,1053680,0.0,0.0,0.0,60.0,1598513915.0,0.0,,,Very Positive,3954,402
-Just Act Natural,1485080,16.0,1653966225.0,0.0,58.0,1674457685.0,0.0,,,Positive,21,2
-BRAIN / OUT,578310,0.0,0.0,0.0,56.0,1511318716.0,0.0,,,Mostly Positive,350,92
-Shatterline,2087030,0.0,0.0,0.0,55.0,1662771284.0,0.0,,,No user reviews,0,0
-Dungeonborne,2448970,0.0,0.0,0.0,54.0,1721367687.0,0.0,,,Mixed,76,42
-Boundless,324510,0.0,0.0,0.0,54.0,1462758092.0,0.0,,,Mostly Positive,1186,413
-Stonehearth,253250,0.0,0.0,0.0,53.0,1417063359.0,0.0,,,Mostly Positive,7919,2388
-Stumble Guys,1677740,0.0,0.0,0.0,49.0,1658564175.0,0.0,,,Very Positive,10440,744
-Fallen Earth Classic,113420,0.0,0.0,0.0,47.0,1439834156.0,0.0,,,Mixed,21,31
-TOXIKK,324810,0.0,0.0,0.0,47.0,1477864525.0,0.0,,,Very Positive,1106,202
-Ghostrunner Demo,1249200,0.0,0.0,0.0,46.0,1603904282.0,0.0,,,No user reviews,0,0
-Spore,17390,201.0,1696447033.0,0.0,46.0,1693307808.0,0.0,,,Very Positive,55374,4548
-Z1 Battle Royale,433850,0.0,0.0,0.0,46.0,1527481192.0,0.0,,,Mixed,82033,62038
-Ghost in the Shell: Stand Alone Complex - First Assault Online,369200,0.0,0.0,0.0,45.0,1469899738.0,0.0,,,Mixed,3338,1488
-Primal Carnage,215470,0.0,0.0,0.0,43.0,1472092963.0,0.0,,,Mostly Positive,3714,1097
-Kindergarten,589590,0.0,0.0,0.0,42.0,1494030184.0,0.0,,,Overwhelmingly Positive,8146,275
-Landfall Archives,2353760,0.0,0.0,0.0,42.0,1680666908.0,0.0,,,No user reviews,0,0
-Pixel Strike 3D,915320,0.0,0.0,0.0,41.0,1641718366.0,0.0,,,No user reviews,0,0
-Aimlabs,714010,114.0,1739325712.0,0.0,41.0,1682406238.0,0.0,,,Mostly Positive,198,54
-Dev Guy,351800,0.0,0.0,0.0,40.0,1434250968.0,0.0,,,Mostly Positive,12,4
-Strife,339280,0.0,0.0,0.0,40.0,1433993866.0,0.0,,,Mostly Positive,39,16
-Dungeon Defenders II,236110,1411.0,1643168246.0,0.0,39.0,1466112008.0,0.0,,,Mixed,2031,960
-LIMBO,48000,0.0,0.0,0.0,39.0,1497202979.0,0.0,,,Very Positive,32930,2846
-Forager,751780,0.0,0.0,0.0,38.0,1643441976.0,0.0,,,Very Positive,29635,3131
-Hide and Shriek,480430,0.0,0.0,0.0,38.0,1510444985.0,0.0,,,Very Positive,499,117
-Dwarfs F2P,213650,0.0,0.0,0.0,36.0,1429931514.0,0.0,,,Mostly Positive,10,4
-Vampire Survivors,1794680,1123.0,1703631300.0,0.0,35.0,1659061766.0,0.0,,,Overwhelmingly Positive,233152,3516
-Metro Exodus Enhanced Edition,1449560,0.0,0.0,0.0,35.0,1690924106.0,0.0,,,Very Positive,21108,2084
-Retail Royale,1557990,0.0,0.0,0.0,34.0,1689144828.0,0.0,,,Mostly Positive,35,10
-RISK: Global Domination,1128810,185.0,1696652677.0,0.0,34.0,1597886906.0,0.0,,,Very Positive,114,21
-Empyrion - Galactic Survival,383120,0.0,0.0,0.0,34.0,1450370611.0,0.0,,,Mostly Positive,22349,5892
-Rubber Bandits: Summer Prologue,1620690,0.0,0.0,0.0,34.0,1622972809.0,0.0,,,No user reviews,0,0
-The Mighty Quest For Epic Loot,239220,0.0,0.0,0.0,32.0,1435898481.0,0.0,,,No user reviews,0,0
-Plants vs. Zombies: Game of the Year,3590,0.0,0.0,0.0,32.0,1717519182.0,0.0,,,Overwhelmingly Positive,124361,3067
-Curse of Mermos,352160,0.0,0.0,0.0,31.0,1435615115.0,0.0,,,1 user reviews,1,0
-Pixel Piracy,264140,0.0,0.0,0.0,30.0,1447292941.0,0.0,,,Mixed,3765,1950
-Soda Dungeon 2,946050,0.0,0.0,0.0,29.0,1594695791.0,0.0,,,No user reviews,0,0
-9 Kings Demo,3122250,0.0,0.0,0.0,29.0,1744425048.0,0.0,,,No user reviews,0,0
-Ninja Kiwi Archive,1275350,0.0,0.0,0.0,29.0,1626507464.0,0.0,,,No user reviews,0,0
-The Farmer Was Replaced,2060160,0.0,0.0,0.0,28.0,1726030386.0,0.0,,,Overwhelmingly Positive,1419,45
-Town of Salem 2,2140510,0.0,0.0,0.0,27.0,1706931354.0,0.0,,,Mostly Positive,3021,825
-The Convenience Store | 夜勤事件,1228520,0.0,0.0,0.0,27.0,1609287886.0,0.0,,,Very Positive,2231,426
-Slapshot,707680,0.0,0.0,0.0,26.0,1601429098.0,0.0,,,7 user reviews,7,0
-War Thunder,236390,0.0,0.0,0.0,25.0,1454786589.0,0.0,,,Mostly Positive,1268,501
-CreativeDestruction,893520,0.0,0.0,0.0,24.0,1580620833.0,0.0,,,Mostly Positive,500,182
-Paunch,792220,0.0,0.0,0.0,23.0,1581146261.0,0.0,,,1 user reviews,1,0
-Hunger Dungeon,513560,0.0,0.0,0.0,23.0,1482805369.0,0.0,,,Mostly Positive,96,33
-Caliber,307950,0.0,0.0,0.0,23.0,1687768207.0,0.0,,,Mostly Positive,18,6
-Gotham City Impostors: Free To Play,206210,0.0,0.0,0.0,22.0,1472343317.0,0.0,,,Very Positive,356,73
-SUPERVIVE,1283700,0.0,0.0,0.0,21.0,1732143502.0,0.0,,,No user reviews,0,0
-Crea,280520,0.0,0.0,0.0,21.0,1590914503.0,0.0,,,Mostly Positive,797,281
-Double Action: Boogaloo,317360,0.0,0.0,0.0,20.0,1487218660.0,0.0,,,Very Positive,118,16
-Moonbase Alpha,39000,0.0,0.0,0.0,17.0,1490659329.0,0.0,,,Very Positive,145,27
-One-armed robber,2551020,75.0,1705126916.0,0.0,17.0,1703074476.0,0.0,,,No user reviews,0,0
-Receiver,234190,0.0,0.0,0.0,16.0,1486964914.0,0.0,,,Very Positive,2184,355
-Open World Game: the Open World Game,1144110,0.0,0.0,0.0,16.0,1610043171.0,0.0,,,4 user reviews,4,0
-WARMODE,391460,0.0,0.0,0.0,15.0,1648886880.0,0.0,,,Mixed,216,116
-Swarmlake,793350,0.0,0.0,0.0,14.0,1573019660.0,0.0,,,Very Positive,1656,89
-Spooky's Jump Scare Mansion,356670,0.0,0.0,0.0,14.0,1452655592.0,0.0,,,Very Positive,143,7
-Mitos.is: The Game,389570,0.0,0.0,0.0,14.0,1471666549.0,0.0,,,Very Positive,147,29
-Viscera Cleanup Detail,246900,0.0,0.0,0.0,13.0,1561262055.0,0.0,,,Very Positive,15643,1177
-Cooking Simulator,641320,0.0,0.0,0.0,13.0,1609281994.0,0.0,,,Very Positive,14222,2516
-Lovers in a Dangerous Spacetime,252110,0.0,0.0,0.0,13.0,1640855099.0,0.0,,,Very Positive,2949,224
-The Escapists: The Walking Dead,388060,0.0,0.0,0.0,12.0,1497200521.0,0.0,,,Mixed,433,256
-Rustangelo,527440,0.0,0.0,0.0,11.0,1567226973.0,0.0,,,Mixed,74,41
-UNO,470220,0.0,0.0,0.0,11.0,1582430479.0,0.0,,,Mostly Positive,28548,11127
-Doki Doki Literature Club,698780,0.0,0.0,0.0,11.0,1517037282.0,0.0,,,Very Positive,407,10
-The SKIES,337950,0.0,0.0,0.0,11.0,1468900185.0,0.0,,,Mostly Negative,31,59
-Resident Evil Revelations 2,287290,0.0,0.0,0.0,10.0,1568258887.0,0.0,,,Mostly Positive,17693,4950
-Genesis Online,409510,0.0,0.0,0.0,10.0,1471649298.0,0.0,,,Negative,4,29
-GASP,412400,0.0,0.0,0.0,10.0,1454778596.0,0.0,,,Mostly Negative,10,22
-Tribes: Ascend,17080,0.0,0.0,0.0,9.0,1471473749.0,0.0,,,Mixed,37,23
-AdVenture Communist,462930,0.0,0.0,0.0,9.0,1501910861.0,0.0,,,Mixed,106,58
-Magicka,42910,0.0,0.0,0.0,8.0,1451283575.0,0.0,,,Very Positive,15963,2621
-Achievement printer,806140,0.0,0.0,0.0,8.0,1706248952.0,0.0,,,Very Positive,1079,130
-Bloodlines of Prima,686090,0.0,0.0,0.0,7.0,1566106823.0,0.0,,,Mixed,14,13
-War Trigger 3,298240,0.0,0.0,0.0,7.0,1642404746.0,0.0,,,Mixed,105,61
-Neverwinter,109600,0.0,0.0,0.0,7.0,1585964603.0,0.0,,,Mostly Positive,231,69
-Iron Snout,424280,0.0,0.0,0.0,7.0,1486843990.0,0.0,,,Very Positive,322,6
-Guardians of Orion (Phase 2),407840,0.0,0.0,0.0,6.0,1469041934.0,0.0,,,Mixed,1584,1397
-Blackwake,420290,0.0,0.0,0.0,6.0,1518929526.0,0.0,,,Very Positive,17138,3688
-Long Live Santa!,763410,0.0,0.0,0.0,6.0,1568944987.0,0.0,,,No user reviews,0,0
-Deformers Open Beta,533200,0.0,0.0,0.0,5.0,1491678091.0,0.0,,,No user reviews,0,0
-POLYGON,1241100,0.0,0.0,0.0,5.0,1648887299.0,0.0,,,Mostly Positive,40,14
-Subsistence,418030,0.0,0.0,0.0,4.0,1562965827.0,0.0,,,Mostly Positive,8531,3216
-No More Room in Hell,224260,0.0,0.0,0.0,4.0,1487051114.0,0.0,,,Very Positive,598,116
-StarMade,244770,0.0,0.0,0.0,3.0,1447642645.0,0.0,,,Mixed,1448,736
-Ori and the Blind Forest,261570,0.0,0.0,0.0,2.0,1530678517.0,0.0,,,Very Positive,45673,2685
-BLOCKPOST LEGACY,706990,0.0,0.0,0.0,1.0,1587007771.0,0.0,,,No user reviews,0,0
-Fallout: New Vegas,22380,0.0,0.0,0.0,1.0,1572390322.0,0.0,,,Overwhelmingly Positive,174425,7188
-Bendy and the Ink Machine,622650,0.0,0.0,0.0,1.0,1557375657.0,0.0,,,Very Positive,17022,1778
-Lords Mobile,1041320,0.0,0.0,0.0,1.0,1562032504.0,0.0,,,No user reviews,0,0
-Evolution VR,549760,0.0,0.0,0.0,1.0,1482804901.0,0.0,,,Mostly Positive,18,6
-War Trigger 2,732730,0.0,0.0,0.0,1.0,1547372872.0,0.0,,,No user reviews,0,0
-The Binding of Isaac,113200,0.0,0.0,0.0,1.0,1543269882.0,0.0,,,Very Positive,44271,2427
-Blacklight: Retribution,209870,0.0,0.0,0.0,1.0,1471542140.0,0.0,,,Mixed,74,75
-Divinity: Original Sin (Classic),230230,0.0,0.0,0.0,0.0,0.0,0.0,,,Very Positive,7317,754
-Half-Life Deathmatch: Source,360,0.0,0.0,0.0,0.0,0.0,0.0,,,Mostly Positive,2854,1027
-Grand Theft Auto V Enhanced,3240220,0.0,0.0,0.0,0.0,0.0,0.0,,,Mixed,26880,14077
-Warhammer: Vermintide 2,552500,0.0,0.0,0.0,0.0,0.0,0.0,,,Very Positive,71831,13170
-Nether: The Untold Chapter,1010270,0.0,0.0,0.0,0.0,0.0,0.0,,,Mixed,133,114
-It Takes Two,1426210,0.0,0.0,0.0,0.0,0.0,0.0,,,Overwhelmingly Positive,170748,8339
-Evoland Legendary Edition,1020470,0.0,0.0,0.0,0.0,0.0,0.0,,,Very Positive,1004,202
-H1Z1: Test Server,439700,0.0,0.0,0.0,0.0,0.0,0.0,,,Mixed,971,938
-Tick Tock: A Tale for Two,790740,0.0,0.0,0.0,0.0,0.0,0.0,,,Very Positive,7890,1313
-Dead by Daylight,381210,1778.0,1743055227.0,0.0,0.0,0.0,0.0,,,Mostly Positive,454548,120600
-Hellbound: Survival Mode,802200,0.0,0.0,0.0,0.0,0.0,0.0,,,No user reviews,0,0
-Paladins - Public Test,596350,0.0,0.0,0.0,0.0,0.0,0.0,,,No user reviews,0,0
-Resident Evil 5,21690,0.0,0.0,0.0,0.0,0.0,0.0,,,Very Positive,30142,4273
-Drawful 2,442070,0.0,0.0,0.0,0.0,0.0,0.0,,,Very Positive,717,68
-The Witcher 3: Wild Hunt,292030,0.0,0.0,0.0,0.0,0.0,0.0,,,Overwhelmingly Positive,732802,23988
-PlanetSide 2 - Test,1083500,0.0,0.0,0.0,0.0,0.0,0.0,,,No user reviews,0,0
-Delta Force,2507950,0.0,0.0,0.0,0.0,0.0,0.0,,,No user reviews,0,0
-The Settlers Online,354640,0.0,0.0,0.0,0.0,0.0,0.0,,,Mixed,13,11
-Keep Talking and Nobody Explodes,341800,0.0,0.0,0.0,0.0,0.0,0.0,,,Overwhelmingly Positive,12751,327
-Overcooked,448510,0.0,0.0,0.0,0.0,0.0,0.0,,,Very Positive,10964,1152
-Magicka 2: Spell Balance Beta,397080,0.0,0.0,0.0,0.0,0.0,0.0,,,No user reviews,0,0
-For Honor - Public Test,654310,0.0,0.0,0.0,0.0,0.0,0.0,,,No user reviews,0,0
-The Incredible Adventures of Van Helsing: Final Cut,400170,0.0,0.0,0.0,0.0,0.0,0.0,,,Mostly Positive,1394,431
-SoulWorker,630100,0.0,0.0,0.0,0.0,0.0,0.0,,,No user reviews,0,0
-SMITE - Public Test,858460,0.0,0.0,0.0,0.0,0.0,0.0,,,No user reviews,0,0
-Half-Life 2: Deathmatch,320,0.0,0.0,0.0,0.0,0.0,0.0,,,Very Positive,8592,934
-Half-Life 2: Update,290930,0.0,0.0,0.0,0.0,0.0,0.0,,,Positive,29,2
-KartRider: Drift,1184140,0.0,0.0,0.0,0.0,0.0,0.0,,,No user reviews,0,0
-Counter-Strike: Source,240,30.0,1563245043.0,0.0,0.0,0.0,0.0,,,Overwhelmingly Positive,121102,4570
-Dungeon Defenders,65800,6624.0,1740942002.0,0.0,0.0,0.0,0.0,,,Very Positive,10618,769
-Sanctum 2,210770,194.0,1461248324.0,0.0,0.0,0.0,0.0,,,Very Positive,6823,544
-Borderlands: The Pre-Sequel,261640,18.0,1577667632.0,0.0,0.0,0.0,0.0,,,Very Positive,24209,4967
-Dungeon Defenders Eternity,302270,187.0,1485043759.0,0.0,0.0,0.0,0.0,,,Mixed,650,700
-Call of Duty: Black Ops III,311210,988.0,1676700090.0,0.0,0.0,0.0,0.0,,,Very Positive,122616,16928
-SUPERHOT,322500,309.0,1576193599.0,0.0,0.0,0.0,0.0,,,Very Positive,23962,2183
-Town of Salem,334230,9978.0,1589152788.0,0.0,0.0,0.0,0.0,,,Very Positive,27456,3509
-NASCAR '15 Victory Edition,345890,535.0,1695450850.0,0.0,0.0,0.0,0.0,,,Very Positive,1019,252
-DARK SOULS™ III,374320,71.0,1704684454.0,0.0,0.0,0.0,0.0,,,Very Positive,245281,14625
-Minecraft: Story Mode - A Telltale Games Series,376870,529.0,1501387415.0,0.0,0.0,0.0,0.0,,,Mostly Positive,5038,1634
-Time Clickers,385770,54.0,1554093503.0,0.0,0.0,0.0,0.0,,,Very Positive,54,11
-Ultimate Chicken Horse,386940,1335.0,1695447819.0,0.0,0.0,0.0,0.0,,,Overwhelmingly Positive,34889,1410
-Borderlands 3,397540,82.0,1628122035.0,0.0,0.0,0.0,0.0,,,Very Positive,97457,16900
-Bloons TD Battles,444640,51.0,1628030052.0,0.0,0.0,0.0,0.0,,,Very Positive,303,42
-PICO PARK:Classic Edition,461040,17.0,1643601726.0,0.0,0.0,0.0,0.0,,,Mixed,38,24
-Human Fall Flat,477160,1207.0,1685762060.0,0.0,0.0,0.0,0.0,,,Very Positive,154650,8730
-Trimmer Tycoon,505750,11.0,1511496170.0,0.0,0.0,0.0,0.0,,,Positive,25,5
-Oh...Sir! The Insult Simulator,512250,39.0,1558205851.0,0.0,0.0,0.0,0.0,,,Very Positive,2924,261
-Deep Rock Galactic,548430,772.0,1703306167.0,0.0,0.0,0.0,0.0,,,Overwhelmingly Positive,264453,6838
-Golf It!,571740,1435.0,1628824375.0,0.0,0.0,0.0,0.0,,,Very Positive,20774,2110
-Tap Adventure: Time Travel,596650,6.0,1505341014.0,0.0,0.0,0.0,0.0,,,1 user reviews,0,1
-Video Horror Society,611360,0.0,0.0,0.0,0.0,0.0,0.0,,,Mostly Positive,22,8
-Blade & Sorcery,629730,122.0,1607060509.0,0.0,0.0,0.0,0.0,,,Overwhelmingly Positive,52498,1760
-SUPERHOT: MIND CONTROL DELETE,690040,240.0,1597432053.0,0.0,0.0,0.0,0.0,,,Very Positive,7405,1241
-Bean Battles,765410,290.0,1730435034.0,0.0,0.0,0.0,0.0,,,Very Positive,6176,366
-Until You Fall,858260,43.0,1628829422.0,0.0,0.0,0.0,0.0,,,Very Positive,2668,153
-Dungeon Defenders: Awakened,1101190,491.0,1715223457.0,0.0,0.0,0.0,0.0,,,Mixed,2156,1010
-Mindustry,1127400,1074.0,1684644173.0,0.0,0.0,0.0,0.0,,,Overwhelmingly Positive,18186,774
-NGU IDLE,1147690,24.0,1584072367.0,0.0,0.0,0.0,0.0,,,No user reviews,0,0
-Split or Steal,1162930,10.0,1580876584.0,0.0,0.0,0.0,0.0,,,No user reviews,0,0
-A Way Out,1222700,313.0,1703710118.0,0.0,0.0,0.0,0.0,,,Very Positive,51340,7726
-Battlefield™ 1,1238840,149.0,1634449092.0,0.0,0.0,0.0,0.0,,,Very Positive,142207,22228
-NASCAR Heat 5,1265860,84.0,1660977125.0,0.0,0.0,0.0,0.0,,,Very Positive,2345,489
-Melvor Idle,1267910,8855.0,1740952612.0,0.0,0.0,0.0,0.0,,,Very Positive,11920,1256
-Bloons TD Battles 2,1276390,23.0,1652155846.0,0.0,0.0,0.0,0.0,,,No user reviews,0,0
-Escape Room - The Sick Colleague,1301720,44.0,1662088973.0,0.0,0.0,0.0,0.0,,,3 user reviews,0,3
-Handy Harry's Haunted House Services,1310510,54.0,1657004116.0,0.0,0.0,0.0,0.0,,,Very Positive,492,43
-No Rest for the Wicked,1371980,22.0,1742254654.0,0.0,0.0,0.0,0.0,,,Mostly Positive,21005,6686
-Cookie Clicker,1454400,2271.0,1742017699.0,0.0,0.0,0.0,0.0,,,Overwhelmingly Positive,71817,2440
-Leaf Blower Revolution - Idle Game,1468260,5941.0,1677116477.0,0.0,0.0,0.0,0.0,,,Positive,21,0
-Slappyball,1482620,20.0,1651365443.0,0.0,0.0,0.0,0.0,,,1 user reviews,1,0
-It Takes Two Friend's Pass,1504980,0.0,0.0,0.0,0.0,0.0,0.0,,,No user reviews,0,0
-PICO PARK,1509960,133.0,1644098894.0,0.0,0.0,0.0,0.0,,,Very Positive,20574,1905
-Lies of P,1627720,67.0,1711730301.0,0.0,0.0,0.0,0.0,,,Very Positive,34609,2979
-Super Auto Pets,1714040,25.0,1655621002.0,0.0,0.0,0.0,0.0,"Free To Play, Strategy",0.0,No user reviews,0,0
-UNSAFE EXPRESS,1756160,30.0,1657233004.0,0.0,0.0,0.0,0.0,,,Mixed,134,85
-BOKURA,1801110,317.0,1705359665.0,0.0,0.0,0.0,0.0,,,Very Positive,7409,690
-Omega Strikers,1869590,27.0,1713053201.0,0.0,0.0,0.0,0.0,,,No user reviews,0,0
-Call of Duty®,1938090,0.0,0.0,0.0,0.0,0.0,0.0,,,Mixed,214100,170663
-One-armed cook,1977530,51.0,1697256270.0,0.0,0.0,0.0,0.0,,,3 user reviews,3,0
-THE FINALS,2073850,125.0,1703578723.0,0.0,0.0,0.0,0.0,,,9 user reviews,8,1
-Cave Crawlers,2143030,525.0,1726973031.0,0.0,0.0,0.0,0.0,,,No user reviews,0,0
-Outpath: First Journey,2237980,35.0,1680321812.0,0.0,0.0,0.0,0.0,,,No user reviews,0,0
-Chillquarium Demo,2296100,6.0,1721855226.0,0.0,0.0,0.0,0.0,,,No user reviews,0,0
-We Were Here Expeditions: The FriendShip,2296990,108.0,1705274715.0,0.0,0.0,0.0,0.0,,,Very Positive,2255,459
-Overwatch® 2,2357570,536.0,1695793607.0,0.0,0.0,0.0,0.0,,,Mostly Negative,80,129
-Balatro,2379780,179.0,1736734357.0,0.0,0.0,0.0,0.0,,,Overwhelmingly Positive,115225,2370
-Bronzebeard's Tavern,2422870,71.0,1705121438.0,0.0,0.0,0.0,0.0,,,No user reviews,0,0
-PILGRIM,2965660,79.0,1735365485.0,0.0,0.0,0.0,0.0,,,Mostly Positive,2023,577
+Rust,252490,56285.0,1729368992.0,0.0,230031.0,1736582608.0,0.0,"Action, Adventure, Indie, Massively Multiplayer, RPG",39.99,Very Positive,885243.0,124415.0
+Destiny 2,1085660,6822.0,1728677623.0,0.0,149362.0,1745990289.0,591.0,"Action, Adventure, Free To Play",0.0,Mostly Positive,100181.0,27456.0
+Terraria,105600,57014.0,1739930731.0,0.0,73027.0,1745116969.0,5.0,"Action, Adventure, Indie, RPG",9.99,Overwhelmingly Positive,1088453.0,26250.0
+Counter-Strike 2,730,4632.0,1730015497.0,0.0,42660.0,1644630043.0,0.0,"Action, Free To Play",0.0,Very Positive,3865716.0,615976.0
+Tom Clancy's Rainbow Six Siege,359550,58551.0,1712614476.0,0.0,39962.0,1744437447.0,0.0,Action,19.99,Very Positive,998161.0,184203.0
+Garry's Mod,4000,8296.0,1714535259.0,0.0,27059.0,1692778870.0,0.0,"Casual, Indie, Simulation",9.99,Overwhelmingly Positive,961964.0,30790.0
+Wallpaper Engine,431960,1892.0,1740543922.0,0.0,20577.0,1741484559.0,0.0,"Casual, Indie, Animation & Modeling, Design & Illustration, Photo Editing, Utilities",4.99,Overwhelmingly Positive,805513.0,15967.0
+tModLoader,1281930,21359.0,1739930743.0,0.0,18619.0,1740545584.0,0.0,"Action, Adventure, Indie, RPG, Free To Play",0.0,No user reviews,0.0,0.0
+ELDEN RING,1245620,20031.0,1742255929.0,0.0,15200.0,1719977922.0,0.0,"Action, RPG",59.99,Very Positive,706496.0,53393.0
+Baldur's Gate 3,1086940,277.0,1745285071.0,169.0,13216.0,1745828119.0,585.0,"Adventure, RPG, Strategy",59.99,Overwhelmingly Positive,641349.0,20722.0
+Dark and Darker,2016590,29.0,1722974513.0,0.0,10216.0,1745784960.0,1366.0,"Action, RPG, Free To Play, Early Access",0.0,Mixed,18.0,10.0
+Realm of the Mad God Exalt,200210,0.0,0.0,0.0,10117.0,1715413683.0,0.0,"Action, Adventure, Indie, Massively Multiplayer, RPG, Free To Play",0.0,Very Positive,158.0,39.0
+Hollow Knight,367520,31.0,1656627548.0,0.0,9200.0,1745116608.0,14.0,"Action, Adventure, Indie",14.99,Overwhelmingly Positive,355006.0,10586.0
+Sun Haven,1432860,949.0,1742274369.0,0.0,8930.0,1730523884.0,0.0,"Adventure, Casual, Indie, RPG, Simulation",14.99,Very Positive,15766.0,3440.0
+ARK: Survival Evolved,346110,18870.0,1690764396.0,0.0,8495.0,1674089201.0,0.0,"Action, Adventure, Indie, Massively Multiplayer, RPG",14.99,Very Positive,459633.0,85885.0
+Starbound,211820,36.0,1654474257.0,0.0,8454.0,1638608585.0,0.0,"Action, Adventure, Casual, Indie, RPG",14.99,Very Positive,78227.0,8029.0
+PUBG: BATTLEGROUNDS,578080,0.0,0.0,0.0,7211.0,1642328763.0,0.0,"Action, Adventure, Massively Multiplayer, Free To Play",0.0,Mixed,964444.0,772385.0
+Stardew Valley,413150,4210.0,1742245126.0,0.0,6808.0,1739680832.0,0.0,"Indie, RPG, Simulation",14.99,Overwhelmingly Positive,737089.0,11386.0
+The Elder Scrolls V: Skyrim,72850,0.0,0.0,0.0,5971.0,1675764668.0,0.0,RPG,19.99,Very Positive,171158.0,9939.0
+Persona 3 Reload,2161700,0.0,0.0,0.0,5259.0,1721426784.0,0.0,"Adventure, RPG, Strategy",34.99,Overwhelmingly Positive,26585.0,1364.0
+Unturned,304930,74.0,1497399220.0,0.0,5215.0,1659058238.0,0.0,"Action, Adventure, Casual, Indie, Free To Play",0.0,Very Positive,6883.0,701.0
+Duck Game,312530,0.0,0.0,0.0,4999.0,1619929206.0,0.0,"Action, Indie",12.99,Overwhelmingly Positive,24141.0,696.0
+Mirror's Edge,17410,0.0,0.0,0.0,4629.0,1536070726.0,0.0,"Action, Adventure",19.99,Very Positive,25864.0,3695.0
+Cyberpunk 2077,1091500,0.0,0.0,0.0,4621.0,1731187187.0,0.0,RPG,59.99,Very Positive,632820.0,108249.0
+Marvel Rivals,2767030,94.0,1744251261.0,0.0,4612.0,1744488656.0,0.0,"Action, Free To Play",0.0,No user reviews,0.0,0.0
+Sekiro™: Shadows Die Twice,814380,0.0,0.0,0.0,4216.0,1720056906.0,0.0,"Action, Adventure",59.99,Overwhelmingly Positive,221260.0,11503.0
+Risk of Rain 2,632360,4959.0,1741041340.0,0.0,4166.0,1724884088.0,0.0,"Action, Indie",24.99,Very Positive,196024.0,13791.0
+Clustertruck,397950,97.0,1603144590.0,0.0,4144.0,1612343837.0,0.0,"Action, Indie",14.99,Very Positive,12622.0,834.0
+Starfield,1716740,0.0,0.0,0.0,3738.0,1695756713.0,0.0,RPG,69.99,Mixed,63492.0,44436.0
+The Elder Scrolls Online,306130,0.0,0.0,0.0,3547.0,1675461996.0,0.0,"Action, Adventure, Massively Multiplayer, RPG",19.99,Very Positive,105305.0,21625.0
+Magicite,268750,0.0,0.0,0.0,3427.0,1454299459.0,0.0,"Action, Adventure, Indie, RPG",9.99,Very Positive,4953.0,833.0
+Reign Of Kings,344760,0.0,0.0,0.0,3402.0,1509680740.0,0.0,"Action, Adventure, Indie, RPG, Simulation",9.99,Mixed,6787.0,5129.0
+Ben and Ed,395200,0.0,0.0,0.0,3242.0,1574382840.0,0.0,"Action, Adventure, Indie",9.99,Very Positive,3029.0,658.0
+Monster Hunter: World,582010,0.0,0.0,0.0,3109.0,1740179566.0,0.0,Action,9.89,Very Positive,263120.0,32269.0
+Evoland 2,359310,0.0,0.0,0.0,2968.0,1712632698.0,0.0,"Action, Adventure, Indie, RPG",19.99,Very Positive,1589.0,202.0
+Monster Hunter Wilds,2246340,0.0,0.0,0.0,2789.0,1742523489.0,0.0,"Action, Adventure, RPG",69.99,Mixed,81253.0,46575.0
+Apex Legends,1172470,827.0,1690503385.0,0.0,2654.0,1742708936.0,0.0,"Action, Adventure, Free To Play",0.0,Mostly Positive,1167.0,380.0
+Marauders,1789480,0.0,0.0,0.0,2630.0,1705272516.0,0.0,"Action, Early Access",29.99,Mostly Positive,9497.0,3487.0
+Sea of Thieves,1172620,0.0,0.0,0.0,2524.0,1662858726.0,0.0,"Action, Adventure",19.99,Very Positive,273413.0,31629.0
+Borderlands 2,49520,1996.0,1703814861.0,0.0,2432.0,1591054768.0,0.0,"Action, RPG",19.99,Very Positive,185299.0,10227.0
+Subnautica,264710,0.0,0.0,0.0,2394.0,1586418118.0,0.0,"Adventure, Indie",29.99,Overwhelmingly Positive,272435.0,8247.0
+The Forest,242760,880.0,1735970441.0,0.0,2365.0,1638671520.0,0.0,"Action, Adventure, Indie, Simulation",19.99,Overwhelmingly Positive,507593.0,23320.0
+HELLDIVERS™ 2,553850,0.0,0.0,0.0,2265.0,1716188657.0,0.0,Action,39.99,Mostly Positive,557289.0,166469.0
+Shovel Knight: Treasure Trove,250760,0.0,0.0,0.0,2134.0,1660851073.0,0.0,"Action, Adventure, Indie",39.99,Overwhelmingly Positive,12886.0,580.0
+Castle Crashers,204360,784.0,1690768017.0,0.0,2114.0,1630303719.0,0.0,"Action, Adventure, Casual, Indie, RPG",14.99,Overwhelmingly Positive,92391.0,3592.0
+Dragon's Dogma 2,2054970,0.0,0.0,0.0,2076.0,1711447220.0,0.0,"Action, RPG",39.89,Mixed,42925.0,26886.0
+Divinity: Original Sin 2,435150,0.0,0.0,0.0,1931.0,1704024951.0,0.0,"Adventure, RPG, Strategy",44.99,Overwhelmingly Positive,158330.0,7077.0
+The Binding of Isaac: Rebirth,250900,0.0,0.0,0.0,1921.0,1567042021.0,0.0,Action,14.99,Overwhelmingly Positive,299242.0,7994.0
+Remnant: From the Ashes,617290,0.0,0.0,0.0,1796.0,1684195856.0,0.0,,,Very Positive,36943.0,6431.0
+Core Keeper,1621690,133.0,1742870339.0,0.0,1786.0,1725474466.0,0.0,,,Very Positive,38059.0,3013.0
+Ring of Elysium,755790,0.0,0.0,0.0,1703.0,1575010205.0,0.0,,,Mostly Positive,521.0,192.0
+Portal 2,620,145.0,1701294866.0,0.0,1673.0,1594423044.0,0.0,,,Overwhelmingly Positive,353388.0,4613.0
+Undertale,391540,0.0,0.0,0.0,1662.0,1618591702.0,0.0,,,Overwhelmingly Positive,231491.0,7562.0
+Hero Siege,269210,0.0,0.0,0.0,1629.0,1528380962.0,0.0,,,Mixed,22704.0,10335.0
+ORION: Prelude,104900,0.0,0.0,0.0,1536.0,1483063236.0,0.0,,,Mostly Positive,14814.0,4307.0
+bit Dungeon II,331440,0.0,0.0,0.0,1525.0,1567400486.0,0.0,,,Very Positive,1161.0,238.0
+Left 4 Dead 2,550,60.0,1696656868.0,0.0,1494.0,1679216643.0,0.0,,,Overwhelmingly Positive,710176.0,17442.0
+Roguelands,364420,0.0,0.0,0.0,1472.0,1619390455.0,0.0,,,Very Positive,2346.0,567.0
+God of War,1593500,0.0,0.0,0.0,1437.0,1669686581.0,0.0,,,Overwhelmingly Positive,105716.0,4328.0
+Path of Exile 2,2694490,2419.0,1735155160.0,0.0,1432.0,1743974788.0,0.0,,,Mostly Positive,90214.0,33806.0
+Remnant II,1282100,4056.0,1715564452.0,0.0,1332.0,1690438408.0,0.0,,,Very Positive,33972.0,6542.0
+Valheim,892970,16931.0,1743879839.0,0.0,1323.0,1723849691.0,0.0,,,Very Positive,399590.0,23074.0
+Metro Exodus,412020,0.0,0.0,0.0,1307.0,1643973012.0,0.0,,,Very Positive,93648.0,10553.0
+Warframe,230410,378.0,1712879226.0,0.0,1281.0,1640076786.0,0.0,,,Very Positive,2533.0,354.0
+Blasphemous,774361,0.0,0.0,0.0,1156.0,1712525201.0,0.0,,,Very Positive,36624.0,3790.0
+GUILTY GEAR -STRIVE-,1384160,0.0,0.0,0.0,1150.0,1734349487.0,0.0,,,Very Positive,37193.0,4705.0
+Air Brawl,375600,0.0,0.0,0.0,1143.0,1600701252.0,0.0,,,Mostly Positive,239.0,82.0
+Inscryption,1092790,0.0,0.0,0.0,1135.0,1737776887.0,0.0,,,Overwhelmingly Positive,115801.0,3695.0
+Viscera Cleanup Detail: Santa's Rampage,265210,0.0,0.0,0.0,1081.0,1484712211.0,0.0,,,Very Positive,4038.0,357.0
+Metaphor: ReFantazio,2679460,63.0,1735788235.0,0.0,1066.0,1731984963.0,0.0,,,Very Positive,17522.0,1681.0
+Palworld,1623730,3286.0,1734571549.0,0.0,1044.0,1724735024.0,0.0,,,Very Positive,300392.0,18981.0
+Trove,304050,503.0,1652332039.0,0.0,1039.0,1567535025.0,0.0,,,Mostly Positive,751.0,225.0
+Overgrowth,25000,0.0,0.0,0.0,1029.0,1642407653.0,0.0,,,Very Positive,4807.0,808.0
+Warface: Clutch,291480,0.0,0.0,0.0,1025.0,1642404213.0,0.0,,,Mixed,551.0,369.0
+Among Us,945360,1667.0,1703578934.0,0.0,991.0,1674463632.0,0.0,,,Very Positive,567096.0,48150.0
+Savage Lands,307880,0.0,0.0,0.0,930.0,1567490155.0,0.0,,,Mixed,2382.0,1802.0
+Windlands,428370,0.0,0.0,0.0,928.0,1584395326.0,0.0,,,Mostly Positive,608.0,180.0
+Halo: The Master Chief Collection,976730,108.0,1679122785.0,0.0,924.0,1599509879.0,0.0,,,Very Positive,202696.0,16408.0
+The Outlast Trials,1304930,1289.0,1685728853.0,0.0,905.0,1720431271.0,0.0,,,Very Positive,51052.0,3486.0
+Aseprite,431730,181.0,1732260948.0,0.0,874.0,1732080424.0,0.0,,,Overwhelmingly Positive,16781.0,153.0
+Feed and Grow: Fish,429050,0.0,0.0,0.0,855.0,1605302735.0,0.0,,,Mostly Positive,13923.0,3924.0
+Salt and Sanctuary,283640,0.0,0.0,0.0,855.0,1589021232.0,0.0,,,Very Positive,16826.0,2005.0
+BattleBit Remastered,671860,90.0,1689897074.0,0.0,847.0,1691181282.0,0.0,,,Very Positive,106274.0,17489.0
+R.E.P.O.,3241660,0.0,0.0,0.0,842.0,1743229833.0,0.0,,,Overwhelmingly Positive,113833.0,4148.0
+Chivalry: Medieval Warfare,219640,0.0,0.0,0.0,834.0,1577076812.0,0.0,,,Very Positive,37296.0,7497.0
+Cube World,1128000,0.0,0.0,0.0,799.0,1694776406.0,0.0,,,Mixed,4244.0,5518.0
+Dead Cells,588650,0.0,0.0,0.0,799.0,1648012390.0,0.0,,,Overwhelmingly Positive,138073.0,4143.0
+Don't Starve Together,322330,77.0,1673128931.0,0.0,788.0,1683657766.0,0.0,,,Overwhelmingly Positive,323798.0,15735.0
+Fall Guys,1097150,746.0,1658204191.0,0.0,786.0,1656227502.0,0.0,,,Very Positive,341141.0,75593.0
+Stick Fight: The Game,674940,316.0,1656394353.0,0.0,772.0,1640338581.0,0.0,,,Very Positive,91514.0,6176.0
+Nomad,378370,0.0,0.0,0.0,767.0,1488775302.0,0.0,,,Mixed,255.0,131.0
+Muse Dash,774171,0.0,0.0,0.0,764.0,1712632457.0,0.0,,,Very Positive,95925.0,9319.0
+ASTRONEER,361420,0.0,0.0,0.0,762.0,1653453863.0,0.0,,,Very Positive,101235.0,8525.0
+Cobalt,357340,0.0,0.0,0.0,762.0,1505691094.0,0.0,,,Very Positive,295.0,26.0
+Forge Quest,249950,0.0,0.0,0.0,758.0,1661331596.0,0.0,,,Mostly Positive,350.0,89.0
+Steep Open Beta,550040,0.0,0.0,0.0,749.0,1479698117.0,0.0,,,No user reviews,0.0,0.0
+Hades,1145360,152.0,1672476547.0,0.0,736.0,1642853495.0,0.0,,,Overwhelmingly Positive,252938.0,4515.0
+Risk of Rain Returns,1337520,1104.0,1700887282.0,0.0,735.0,1699764461.0,0.0,,,Very Positive,21695.0,2407.0
+Clicker Guild,557810,0.0,0.0,0.0,729.0,1483052702.0,0.0,,,Mixed,21.0,17.0
+Depth,274940,0.0,0.0,0.0,728.0,1493594550.0,0.0,,,Very Positive,20903.0,2420.0
+Robocraft,301520,0.0,0.0,0.0,724.0,1538970983.0,0.0,,,Mixed,1610.0,826.0
+Assassin's Creed Odyssey,812140,0.0,0.0,0.0,719.0,1609891712.0,0.0,,,Very Positive,138701.0,16675.0
+Sons Of The Forest,1326470,2158.0,1736131158.0,0.0,712.0,1708752242.0,0.0,,,Very Positive,195878.0,27061.0
+Raft,648800,0.0,0.0,0.0,701.0,1643523439.0,0.0,,,Very Positive,273976.0,19172.0
+OUTRIDERS,680420,0.0,0.0,0.0,686.0,1618808779.0,0.0,,,Mixed,30201.0,15263.0
+Cuphead,268910,618.0,1695942648.0,0.0,682.0,1535766663.0,0.0,,,Overwhelmingly Positive,157699.0,5821.0
+FINAL FANTASY XIV Online,39210,0.0,0.0,0.0,680.0,1711871143.0,0.0,,,Very Positive,63984.0,9045.0
+Portal Knights,374040,0.0,0.0,0.0,676.0,1564456136.0,0.0,,,Very Positive,13686.0,2632.0
+Elite Dangerous,359320,0.0,0.0,0.0,673.0,1457190573.0,0.0,,,Mostly Positive,58095.0,17746.0
+OMORI,1150690,36.0,1706489413.0,0.0,667.0,1725828142.0,0.0,,,Overwhelmingly Positive,69635.0,1906.0
+Toribash,248570,0.0,0.0,0.0,659.0,1475972586.0,0.0,,,Very Positive,125.0,22.0
+Half-Life 2,220,0.0,0.0,0.0,656.0,1585114037.0,0.0,,,Overwhelmingly Positive,175215.0,4184.0
+Marvel Heroes Omega,226320,0.0,0.0,0.0,633.0,1463950170.0,0.0,,,Mostly Negative,275.0,490.0
+SMITE,386360,0.0,0.0,0.0,607.0,1612077159.0,0.0,,,Mostly Positive,1120.0,283.0
+Lost Ark,1599340,0.0,0.0,0.0,586.0,1645426678.0,0.0,,,Mixed,45151.0,19900.0
+Ori and the Will of the Wisps,1057090,0.0,0.0,0.0,572.0,1648017170.0,0.0,,,Overwhelmingly Positive,122022.0,4312.0
+PAYDAY 2,218620,18.0,1577667634.0,0.0,567.0,1578258426.0,0.0,,,Very Positive,392253.0,42982.0
+Tom Clancy's Rainbow Six Siege - Test Server,623990,1468.0,1597953345.0,0.0,566.0,1535309004.0,0.0,,,No user reviews,0.0,0.0
+Necesse,1169040,2305.0,1736389650.0,0.0,561.0,1675941940.0,0.0,,,Very Positive,13171.0,826.0
+The Elder Scrolls V: Skyrim Special Edition,489830,0.0,0.0,0.0,555.0,1703678420.0,0.0,,,Very Positive,176451.0,10422.0
+Goat Simulator,265930,0.0,0.0,0.0,555.0,1693465473.0,0.0,,,Very Positive,48027.0,5055.0
+Hades II,1145350,0.0,0.0,0.0,550.0,1737519969.0,0.0,,,Very Positive,56307.0,3038.0
+STAR WARS Jedi: Fallen Order™ ,1172380,480.0,1577762134.0,0.0,548.0,1575349284.0,0.0,,,Very Positive,120057.0,15703.0
+GRAV,332500,0.0,0.0,0.0,536.0,1470459075.0,0.0,,,Mixed,2242.0,2212.0
+No Man's Sky,275850,0.0,0.0,0.0,511.0,1722665973.0,0.0,,,Very Positive,215720.0,49238.0
+Ori and the Blind Forest: Definitive Edition,387290,0.0,0.0,0.0,508.0,1607970972.0,0.0,,,Overwhelmingly Positive,55470.0,2820.0
+Geometry Dash,322170,0.0,0.0,0.0,503.0,1708621802.0,0.0,,,Very Positive,357245.0,24811.0
+Edge of Space,238240,0.0,0.0,0.0,499.0,1486053266.0,0.0,,,Mostly Negative,626.0,1316.0
+The Culling,437220,0.0,0.0,0.0,494.0,1492135573.0,0.0,,,Mixed,7415.0,5285.0
+ESEA,479130,0.0,0.0,0.0,490.0,1531360306.0,0.0,,,Mixed,152.0,69.0
+SNOW,244930,0.0,0.0,0.0,482.0,1510442472.0,0.0,,,Mixed,1393.0,841.0
+Hogwarts Legacy,990080,383.0,1677274113.0,0.0,476.0,1676297380.0,0.0,,,Very Positive,207995.0,21979.0
+Subnautica: Below Zero,848450,0.0,0.0,0.0,469.0,1621278390.0,0.0,,,Very Positive,79914.0,8213.0
+Golf With Your Friends,431240,1239.0,1742616651.0,0.0,469.0,1742616997.0,0.0,,,Very Positive,39360.0,4766.0
+Slapshot: Rebound,1173370,0.0,0.0,0.0,466.0,1692772479.0,0.0,,,Positive,17.0,1.0
+Stranded Deep,313120,0.0,0.0,0.0,460.0,1640065150.0,0.0,,,Mostly Positive,31337.0,10362.0
+Enter the Gungeon,311690,0.0,0.0,0.0,435.0,1619904306.0,0.0,,,Overwhelmingly Positive,71618.0,3295.0
+Totally Accurate Battlegrounds,823130,164.0,1663099344.0,0.0,434.0,1714508377.0,0.0,,,Very Positive,13856.0,1721.0
+Creativerse,280790,31.0,1452111792.0,0.0,432.0,1606009246.0,0.0,,,Mostly Positive,2017.0,563.0
+PlanetSide 2,218230,0.0,0.0,0.0,432.0,1503778021.0,0.0,,,Mostly Positive,423.0,157.0
+Wizard of Legend,445980,0.0,0.0,0.0,429.0,1657255734.0,0.0,,,Very Positive,15376.0,1432.0
+Evoland,233470,0.0,0.0,0.0,425.0,1455600596.0,0.0,,,Very Positive,3734.0,739.0
+Slime Rancher,433340,0.0,0.0,0.0,425.0,1472743604.0,0.0,,,Overwhelmingly Positive,118776.0,2462.0
+For Honor,304390,0.0,0.0,0.0,425.0,1684376547.0,0.0,,,Mixed,66782.0,28746.0
+Backrooms: Escape Together,2141730,0.0,0.0,0.0,422.0,1720333388.0,0.0,,,Very Positive,15777.0,2258.0
+Titanfall® 2,1237970,0.0,0.0,0.0,420.0,1625557333.0,0.0,,,Overwhelmingly Positive,214345.0,10260.0
+Brawlhalla,291550,99.0,1571019941.0,0.0,420.0,1694150677.0,0.0,,,Very Positive,2453.0,438.0
+Halo Infinite,1240440,148.0,1689909903.0,0.0,397.0,1637489098.0,0.0,,,Mixed,22490.0,10021.0
+ARK: Survival Ascended,2399830,5701.0,1717097715.0,0.0,387.0,1740040807.0,0.0,,,Mixed,40134.0,27412.0
+Hand Simulator,657200,0.0,0.0,0.0,376.0,1577083293.0,0.0,,,Very Positive,24187.0,4481.0
+The Escapists 2,641990,0.0,0.0,0.0,370.0,1619814784.0,0.0,,,Very Positive,22745.0,2257.0
+Moon Hunters,320040,0.0,0.0,0.0,367.0,1659769911.0,0.0,,,Mostly Positive,3023.0,776.0
+A Story About My Uncle,278360,0.0,0.0,0.0,366.0,1535775000.0,0.0,,,Very Positive,11226.0,876.0
+DOOM Eternal,782330,0.0,0.0,0.0,358.0,1654662963.0,0.0,,,Very Positive,158722.0,14598.0
+The Elder Scrolls IV: Oblivion Remastered,2623190,0.0,0.0,0.0,351.0,1745711633.0,351.0,,,Very Positive,25124.0,5321.0
+Clair Obscur: Expedition 33,1903340,0.0,0.0,0.0,347.0,1745905754.0,347.0,,,Very Positive,17858.0,1443.0
+Zero Hour,1359090,0.0,0.0,0.0,345.0,1636269237.0,0.0,,,Mostly Positive,21624.0,5455.0
+My Friend Pedro,557340,0.0,0.0,0.0,342.0,1609479817.0,0.0,,,Overwhelmingly Positive,22581.0,938.0
+Paint the Town Red,337320,0.0,0.0,0.0,336.0,1619932901.0,0.0,,,Overwhelmingly Positive,25435.0,1028.0
+Minecraft Dungeons,1672970,0.0,0.0,0.0,334.0,1672401759.0,0.0,,,Very Positive,11416.0,1098.0
+Bloons TD 6,960090,1958.0,1687564918.0,0.0,329.0,1732389136.0,0.0,,,Overwhelmingly Positive,302598.0,8312.0
+20 Minutes Till Dawn,1966900,0.0,0.0,0.0,322.0,1700447682.0,0.0,,,Very Positive,24165.0,2238.0
+V Rising,1604030,482.0,1683521311.0,0.0,321.0,1702063891.0,0.0,,,Very Positive,83404.0,10113.0
+Song of Nunu: A League of Legends Story,1333200,0.0,0.0,0.0,321.0,1699329494.0,0.0,,,Very Positive,2234.0,123.0
+Enshrouded,1203620,836.0,1745127497.0,11.0,321.0,1706278837.0,0.0,,,Very Positive,58382.0,8965.0
+Cassette Beasts,1321440,0.0,0.0,0.0,313.0,1697076086.0,0.0,,,Overwhelmingly Positive,7167.0,349.0
+Northgard,466560,0.0,0.0,0.0,309.0,1662681245.0,0.0,,,Very Positive,44025.0,6876.0
+Beat Saber,620980,0.0,0.0,0.0,307.0,1606356424.0,0.0,,,Overwhelmingly Positive,65125.0,2934.0
+Steep,460920,0.0,0.0,0.0,305.0,1584266990.0,0.0,,,Very Positive,23286.0,5016.0
+Planet Explorers,237870,0.0,0.0,0.0,301.0,1483231034.0,0.0,,,Mixed,3145.0,1993.0
+Rubber Bandits: Christmas Prologue,1469250,0.0,0.0,0.0,295.0,1623826607.0,0.0,,,No user reviews,0.0,0.0
+Gray Zone Warfare,2479810,0.0,0.0,0.0,293.0,1714864599.0,0.0,,,Mixed,34736.0,17096.0
+Project Zomboid,108600,0.0,0.0,0.0,292.0,1742712948.0,0.0,,,Very Positive,266439.0,15155.0
+bit Dungeon III,856210,0.0,0.0,0.0,288.0,1643009360.0,0.0,,,Mostly Positive,104.0,30.0
+Magicka 2,238370,0.0,0.0,0.0,281.0,1473807200.0,0.0,,,Very Positive,7492.0,1562.0
+A Dance of Fire and Ice,977950,0.0,0.0,0.0,279.0,1712632021.0,0.0,,,Very Positive,64007.0,3990.0
+UNBEATABLE [white label],1290490,0.0,0.0,0.0,279.0,1707031088.0,0.0,,,No user reviews,0.0,0.0
+ASKA,1898300,0.0,0.0,0.0,278.0,1720753559.0,0.0,,,Mostly Positive,4657.0,1212.0
+Stay Close,455120,0.0,0.0,0.0,274.0,1589017811.0,0.0,,,Mixed,910.0,551.0
+Lethal Company,1966720,3091.0,1735363903.0,0.0,270.0,1705477198.0,0.0,,,Overwhelmingly Positive,380451.0,10748.0
+We Need To Go Deeper,307110,0.0,0.0,0.0,268.0,1669195387.0,0.0,,,Very Positive,3934.0,564.0
+Tribes of Midgard,858820,0.0,0.0,0.0,265.0,1691040676.0,0.0,,,Mostly Positive,12867.0,3955.0
+Rampage Knights,314410,0.0,0.0,0.0,264.0,1476067411.0,0.0,,,Very Positive,1998.0,147.0
+OCTOPATH TRAVELER II,1971650,0.0,0.0,0.0,264.0,1679714477.0,0.0,,,Very Positive,10075.0,564.0
+Mortal Sin,1494810,0.0,0.0,0.0,260.0,1720492037.0,0.0,,,Overwhelmingly Positive,2851.0,120.0
+Paladins,444090,1.0,1499484440.0,0.0,255.0,1587356977.0,0.0,,,Very Positive,7341.0,1482.0
+"Star Wars: Battlefront 2 (Classic, 2005)",6060,0.0,0.0,0.0,253.0,1482472487.0,0.0,,,Very Positive,42740.0,2527.0
+Green Hell,815370,0.0,0.0,0.0,248.0,1674200665.0,0.0,,,Very Positive,52048.0,8090.0
+Divinity: Original Sin Enhanced Edition,373420,0.0,0.0,0.0,247.0,1593209681.0,0.0,,,Very Positive,21198.0,2571.0
+Metro: Last Light Redux,287390,0.0,0.0,0.0,245.0,1546031057.0,0.0,,,Very Positive,54886.0,5644.0
+Grand Theft Auto V Legacy,271590,711.0,1698718555.0,0.0,244.0,1596975613.0,0.0,,,Very Positive,1589738.0,222430.0
+Unfortunate Spacemen,408900,0.0,0.0,0.0,237.0,1594171433.0,0.0,,,Very Positive,209.0,46.0
+Splitgate,677620,785.0,1629225558.0,0.0,235.0,1629862122.0,0.0,,,Very Positive,157.0,10.0
+SCP: Secret Laboratory,700330,0.0,0.0,0.0,235.0,1719794504.0,0.0,,,No user reviews,0.0,0.0
+Path of Exile,238960,7.0,1685918925.0,0.0,235.0,1704094571.0,0.0,,,Very Positive,960.0,79.0
+We Were Here Together,865360,0.0,0.0,0.0,233.0,1641115060.0,0.0,,,Very Positive,10861.0,2079.0
+Sword With Sauce,581630,0.0,0.0,0.0,233.0,1563166339.0,0.0,,,Very Positive,4968.0,803.0
+BattleBlock Theater,238460,140.0,1674689552.0,0.0,228.0,1474688484.0,0.0,,,Overwhelmingly Positive,52984.0,1573.0
+FragPunk,2943650,73.0,1742353143.0,0.0,228.0,1741756907.0,0.0,,,Very Positive,1341.0,200.0
+GTFO,493520,0.0,0.0,0.0,225.0,1620181495.0,0.0,,,Very Positive,36961.0,5276.0
+The Elder Scrolls IV: Oblivion Game of the Year Edition (2009),22330,0.0,0.0,0.0,222.0,1484771248.0,0.0,,,Overwhelmingly Positive,38450.0,1915.0
+Deadlock,1422450,14.0,1730012989.0,0.0,222.0,1725262107.0,0.0,,,No user reviews,0.0,0.0
+Clicker Heroes,363970,48.0,1576193728.0,0.0,219.0,1564342232.0,0.0,,,Very Positive,698.0,69.0
+Fistful of Frags,265630,0.0,0.0,0.0,217.0,1595918039.0,0.0,,,Very Positive,423.0,56.0
+Gunfire Reborn,1217060,3689.0,1744583237.0,0.0,213.0,1626437637.0,0.0,,,Very Positive,79083.0,5544.0
+MultiVersus,1818750,366.0,1659153387.0,0.0,212.0,1659856661.0,0.0,,,Mostly Positive,4415.0,1691.0
+Argo,530700,0.0,0.0,0.0,212.0,1565488839.0,0.0,,,Mixed,13.0,9.0
+Dragon's Dogma 2 Character Creator & Storage,2674810,0.0,0.0,0.0,206.0,1711065511.0,0.0,,,No user reviews,0.0,0.0
+Persona 5 Royal,1687950,0.0,0.0,0.0,202.0,1721966033.0,0.0,,,Overwhelmingly Positive,64661.0,2241.0
+New World: Aeternum,1063730,324.0,1641167875.0,0.0,200.0,1633204081.0,0.0,,,Mixed,168167.0,77038.0
+ANIMAL WELL,813230,0.0,0.0,0.0,199.0,1716278255.0,0.0,,,Overwhelmingly Positive,18141.0,772.0
+Dig or Die,315460,0.0,0.0,0.0,196.0,1569023285.0,0.0,,,Very Positive,3410.0,358.0
+Infestation: The New Z,555570,0.0,0.0,0.0,193.0,1489378164.0,0.0,,,Mixed,1018.0,1178.0
+Deceit,466240,0.0,0.0,0.0,188.0,1573535315.0,0.0,,,Mixed,1467.0,1044.0
+Dirty Bomb,333930,0.0,0.0,0.0,185.0,1471294810.0,0.0,,,Very Positive,1040.0,235.0
+Welkin Road,432720,0.0,0.0,0.0,185.0,1571204738.0,0.0,,,Mixed,29.0,14.0
+s&box,590830,0.0,0.0,0.0,184.0,1722651107.0,0.0,,,No user reviews,0.0,0.0
+Slay the Spire,646570,0.0,0.0,0.0,182.0,1713056648.0,0.0,,,Overwhelmingly Positive,152594.0,3405.0
+Phasmophobia,739630,5415.0,1724203853.0,0.0,182.0,1602308679.0,0.0,,,Overwhelmingly Positive,598218.0,24775.0
+Insurgency,222880,0.0,0.0,0.0,180.0,1582176403.0,0.0,,,Very Positive,79565.0,6894.0
+Operation Tango,1335790,0.0,0.0,0.0,178.0,1641174658.0,0.0,,,Very Positive,5611.0,781.0
+Batla,338180,0.0,0.0,0.0,177.0,1453259524.0,0.0,,,Mixed,28.0,13.0
+STALCRAFT: X,1818450,0.0,0.0,0.0,176.0,1692925959.0,0.0,,,3 user reviews,3.0,0.0
+Don't Starve,219740,0.0,0.0,0.0,176.0,1427251478.0,0.0,,,Overwhelmingly Positive,90008.0,3156.0
+The Blackout Club,599080,0.0,0.0,0.0,171.0,1588060574.0,0.0,,,Mostly Positive,1713.0,461.0
+Rock of Ages,22230,0.0,0.0,0.0,171.0,1609903967.0,0.0,,,Very Positive,2808.0,251.0
+Cult of the Lamb,1313140,0.0,0.0,0.0,170.0,1683280011.0,0.0,,,Overwhelmingly Positive,84419.0,3955.0
+VRChat,438100,0.0,0.0,0.0,170.0,1657620200.0,0.0,,,Very Positive,124.0,25.0
+Demonologist,1929610,0.0,0.0,0.0,169.0,1680411072.0,0.0,,,Very Positive,14593.0,2276.0
+Chained Together,2567870,0.0,0.0,0.0,168.0,1719991357.0,0.0,,,Very Positive,40551.0,4057.0
+Galcon 2,294160,0.0,0.0,0.0,167.0,1513814654.0,0.0,,,3 user reviews,2.0,1.0
+ENDER LILIES: Quietus of the Knights,1369630,0.0,0.0,0.0,165.0,1650157214.0,0.0,,,Very Positive,34319.0,2170.0
+ULTRAKILL,1229490,0.0,0.0,0.0,161.0,1672646913.0,0.0,,,Overwhelmingly Positive,141680.0,3159.0
+UNBEATABLE Demo,3595150,0.0,0.0,0.0,161.0,1744967989.0,161.0,,,No user reviews,0.0,0.0
+Bloody Trapland,257750,0.0,0.0,0.0,161.0,1566345449.0,0.0,,,Very Positive,2263.0,468.0
+Metro 2033 Redux,286690,0.0,0.0,0.0,161.0,1584254192.0,0.0,,,Very Positive,74631.0,7614.0
+DARK SOULS™ II: Scholar of the First Sin,335300,0.0,0.0,0.0,160.0,1593226792.0,0.0,,,Very Positive,62016.0,11031.0
+Crashlands,391730,0.0,0.0,0.0,159.0,1470110465.0,0.0,,,Very Positive,4595.0,490.0
+Blood and Bacon,434570,0.0,0.0,0.0,158.0,1595935660.0,0.0,,,Overwhelmingly Positive,25351.0,1163.0
+Black Desert,582660,0.0,0.0,0.0,156.0,1674528779.0,0.0,,,Mostly Positive,44528.0,14180.0
+THRONE AND LIBERTY,2429640,0.0,0.0,0.0,156.0,1727847986.0,0.0,,,Mostly Positive,7689.0,2897.0
+TUG,277930,0.0,0.0,0.0,152.0,1447469138.0,0.0,,,Mostly Negative,223.0,438.0
+Spore: Creepy & Cute Parts Pack,17440,0.0,0.0,0.0,149.0,1472358489.0,0.0,,,Very Positive,1672.0,208.0
+Akane,884260,0.0,0.0,0.0,148.0,1680910708.0,0.0,,,Overwhelmingly Positive,2518.0,116.0
+Starbound - Unstable,367540,0.0,0.0,0.0,146.0,1492645708.0,0.0,,,No user reviews,0.0,0.0
+Forward: Escape the Fold - Ultimate Edition,1766390,0.0,0.0,0.0,146.0,1713058432.0,0.0,,,Very Positive,500.0,84.0
+Archvale,1296360,0.0,0.0,0.0,145.0,1642577533.0,0.0,,,Very Positive,1691.0,206.0
+Soda Dungeon,564710,0.0,0.0,0.0,143.0,1489897182.0,0.0,,,Very Positive,729.0,50.0
+Nether,247730,0.0,0.0,0.0,136.0,1584268402.0,0.0,,,Mixed,5574.0,8247.0
+Scrap Mechanic,387990,0.0,0.0,0.0,134.0,1613378142.0,0.0,,,Very Positive,93059.0,7541.0
+DiggerOnline,278970,0.0,0.0,0.0,130.0,1470358724.0,0.0,,,Mixed,762.0,424.0
+Content Warning,2881650,173.0,1713475355.0,0.0,129.0,1712211367.0,0.0,,,Very Positive,53469.0,3271.0
+A Hat in Time,253230,0.0,0.0,0.0,128.0,1557045046.0,0.0,,,Overwhelmingly Positive,40484.0,827.0
+KurtzPel,844870,0.0,0.0,0.0,127.0,1609982255.0,0.0,,,Mixed,32.0,26.0
+ShellShock Live,326460,3066.0,1653197091.0,0.0,124.0,1719795441.0,0.0,,,Very Positive,26871.0,1868.0
+Ale & Tale Tavern,2683150,0.0,0.0,0.0,119.0,1741777974.0,0.0,,,Very Positive,5105.0,628.0
+AdVenture Capitalist,346900,0.0,0.0,0.0,119.0,1487717908.0,0.0,,,Very Positive,439.0,67.0
+Journey To The Savage Planet,973810,0.0,0.0,0.0,117.0,1612567530.0,0.0,,,Very Positive,4408.0,627.0
+Murder Miners,274900,432.0,1488755904.0,0.0,113.0,1471034468.0,0.0,,,Very Positive,3427.0,504.0
+The Escapists,298630,0.0,0.0,0.0,111.0,1437704633.0,0.0,,,Very Positive,12783.0,1360.0
+DeadCore,284460,0.0,0.0,0.0,110.0,1461379334.0,0.0,,,Very Positive,1350.0,221.0
+Empires Apart,530630,0.0,0.0,0.0,108.0,1550728242.0,0.0,,,Mixed,184.0,142.0
+LEGO® Star Wars™: The Skywalker Saga,920210,0.0,0.0,0.0,106.0,1649221996.0,0.0,,,Very Positive,32160.0,3159.0
+StarForge,227680,0.0,0.0,0.0,102.0,1482526119.0,0.0,,,Overwhelmingly Negative,926.0,6231.0
+Codename CURE,355180,0.0,0.0,0.0,98.0,1473381324.0,0.0,,,Very Positive,245.0,46.0
+Orcs Must Die! 2,201790,0.0,0.0,0.0,97.0,1530125689.0,0.0,,,Very Positive,11748.0,911.0
+Who's Your Daddy?!,427730,536.0,1529122099.0,0.0,95.0,1589016390.0,0.0,,,Very Positive,19691.0,4666.0
+ARK: Survival Of The Fittest,407530,0.0,0.0,0.0,95.0,1483327172.0,0.0,,,Mostly Positive,3289.0,1220.0
+Zort,3121110,0.0,0.0,0.0,94.0,1738658784.0,0.0,,,Very Positive,5900.0,425.0
+White Noise 2,503350,0.0,0.0,0.0,94.0,1562313431.0,0.0,,,Very Positive,1788.0,441.0
+Eldevin,298160,0.0,0.0,0.0,93.0,1434242493.0,0.0,,,Mixed,9.0,6.0
+Turbo Dismount,263760,0.0,0.0,0.0,91.0,1451018154.0,0.0,,,Very Positive,4850.0,334.0
+Little Nightmares,424840,0.0,0.0,0.0,90.0,1568071829.0,0.0,,,Very Positive,45329.0,2491.0
+Riders of Icarus,442080,0.0,0.0,0.0,89.0,1468650921.0,0.0,,,Mostly Positive,521.0,206.0
+Dishonored,205100,0.0,0.0,0.0,89.0,1530043659.0,0.0,,,Overwhelmingly Positive,60678.0,1529.0
+Chippy,602700,0.0,0.0,0.0,86.0,1621299727.0,0.0,,,Very Positive,907.0,89.0
+Genital Jousting,469820,0.0,0.0,0.0,86.0,1641267967.0,0.0,,,Very Positive,7825.0,644.0
+Citadel: Forged With Fire,487120,0.0,0.0,0.0,86.0,1502233988.0,0.0,,,Mixed,3378.0,1592.0
+IdleOn - The Idle RPG,1476970,3.0,1688166156.0,0.0,85.0,1618345084.0,0.0,,,No user reviews,0.0,0.0
+Deducto,1453490,0.0,0.0,0.0,82.0,1655972684.0,0.0,,,2 user reviews,1.0,1.0
+Spiral Knights,99900,0.0,0.0,0.0,82.0,1443627928.0,0.0,,,Very Positive,148.0,34.0
+Viscera Cleanup Detail: Shadow Warrior,255520,0.0,0.0,0.0,80.0,1561264052.0,0.0,,,Very Positive,1829.0,437.0
+Delver,249630,0.0,0.0,0.0,80.0,1439742752.0,0.0,,,Very Positive,2049.0,269.0
+Rec Room,471710,0.0,0.0,0.0,79.0,1624071993.0,0.0,,,Very Positive,109.0,1.0
+RuneScape,1343400,0.0,0.0,0.0,79.0,1608146134.0,0.0,,,Very Positive,69.0,13.0
+Helltaker,1289310,0.0,0.0,0.0,77.0,1607822726.0,0.0,,,Very Positive,394.0,5.0
+Darza's Dominion,1895130,0.0,0.0,0.0,76.0,1679697312.0,0.0,,,No user reviews,0.0,0.0
+The Cycle: Frontier,868270,0.0,0.0,0.0,74.0,1655602202.0,0.0,,,Mostly Positive,254.0,85.0
+Vampire: The Masquerade - Bloodhunt,760160,0.0,0.0,0.0,74.0,1651716365.0,0.0,,,No user reviews,0.0,0.0
+STAR WARS™: The Force Unleashed™ Ultimate Sith Edition,32430,0.0,0.0,0.0,72.0,1451173197.0,0.0,,,Mostly Positive,5869.0,1790.0
+Project Playtime,1961460,0.0,0.0,0.0,70.0,1674469016.0,0.0,,,No user reviews,0.0,0.0
+WEBFISHING,3146520,85.0,1735165798.0,0.0,69.0,1733561859.0,0.0,,,Overwhelmingly Positive,51938.0,1041.0
+Cry of Fear,223710,0.0,0.0,0.0,67.0,1695704119.0,0.0,,,Mostly Positive,236.0,67.0
+NARUTO TO BORUTO: SHINOBI STRIKER,633230,0.0,0.0,0.0,67.0,1632705408.0,0.0,,,Very Positive,35669.0,6390.0
+Clatter,602770,0.0,0.0,0.0,67.0,1544752385.0,0.0,,,Very Positive,304.0,67.0
+Dead Frontier 2,744900,0.0,0.0,0.0,65.0,1578040168.0,0.0,,,No user reviews,0.0,0.0
+MOTHER,1381980,0.0,0.0,0.0,65.0,1609286214.0,0.0,,,Very Positive,321.0,40.0
+Crab Game,1782210,148.0,1658205279.0,0.0,63.0,1636264998.0,0.0,,,No user reviews,0.0,0.0
+VEILED EXPERTS,1934780,0.0,0.0,0.0,62.0,1684563582.0,0.0,,,No user reviews,0.0,0.0
+The Escape: Together,2242760,0.0,0.0,0.0,62.0,1710480716.0,0.0,,,Very Positive,1310.0,327.0
+Line of Sight,436520,0.0,0.0,0.0,61.0,1487725159.0,0.0,,,Mixed,1468.0,1184.0
+Death Must Die,2334730,130.0,1735010234.0,0.0,60.0,1702979526.0,0.0,,,Very Positive,17489.0,1680.0
+Granny Simulator,1053680,0.0,0.0,0.0,60.0,1598513915.0,0.0,,,Very Positive,3954.0,402.0
+Just Act Natural,1485080,16.0,1653966225.0,0.0,58.0,1674457685.0,0.0,,,Positive,21.0,2.0
+BRAIN / OUT,578310,0.0,0.0,0.0,56.0,1511318716.0,0.0,,,Mostly Positive,350.0,92.0
+Shatterline,2087030,0.0,0.0,0.0,55.0,1662771284.0,0.0,,,No user reviews,0.0,0.0
+Dungeonborne,2448970,0.0,0.0,0.0,54.0,1721367687.0,0.0,,,Mixed,76.0,42.0
+Boundless,324510,0.0,0.0,0.0,54.0,1462758092.0,0.0,,,Mostly Positive,1186.0,413.0
+Stonehearth,253250,0.0,0.0,0.0,53.0,1417063359.0,0.0,,,Mostly Positive,7919.0,2388.0
+Stumble Guys,1677740,0.0,0.0,0.0,49.0,1658564175.0,0.0,,,Very Positive,10440.0,744.0
+Fallen Earth Classic,113420,0.0,0.0,0.0,47.0,1439834156.0,0.0,,,Mixed,21.0,31.0
+TOXIKK,324810,0.0,0.0,0.0,47.0,1477864525.0,0.0,,,Very Positive,1106.0,202.0
+Ghostrunner Demo,1249200,0.0,0.0,0.0,46.0,1603904282.0,0.0,,,No user reviews,0.0,0.0
+Spore,17390,201.0,1696447033.0,0.0,46.0,1693307808.0,0.0,"Action, Adventure, Casual, RPG, Simulation, Strategy",19.99,Very Positive,55374.0,4548.0
+Z1 Battle Royale,433850,0.0,0.0,0.0,46.0,1527481192.0,0.0,"Action, Adventure, Free To Play, Massively Multiplayer",0.0,Mixed,82033.0,62038.0
+Ghost in the Shell: Stand Alone Complex - First Assault Online,369200,0.0,0.0,0.0,45.0,1469899738.0,0.0,,,Mixed,3338.0,1488.0
+Primal Carnage,215470,0.0,0.0,0.0,43.0,1472092963.0,0.0,"Action, Indie",4.99,Mostly Positive,3714.0,1097.0
+Kindergarten,589590,0.0,0.0,0.0,42.0,1494030184.0,0.0,"Adventure, Indie",4.99,Overwhelmingly Positive,8146.0,275.0
+Landfall Archives,2353760,0.0,0.0,0.0,42.0,1680666908.0,0.0,"Action, Adventure, Casual, Indie, Simulation, Strategy, Free To Play",0.0,No user reviews,0.0,0.0
+Pixel Strike 3D,915320,0.0,0.0,0.0,41.0,1641718366.0,0.0,"Action, Adventure, Indie, RPG, Free To Play",0.0,No user reviews,0.0,0.0
+Aimlabs,714010,114.0,1739325712.0,0.0,41.0,1682406238.0,0.0,"Action, Adventure, Casual, Indie, Simulation, Free To Play",0.0,Mostly Positive,198.0,54.0
+Dev Guy,351800,0.0,0.0,0.0,40.0,1434250968.0,0.0,"Adventure, Free To Play, Indie",0.0,Mostly Positive,12.0,4.0
+Strife,339280,0.0,0.0,0.0,40.0,1433993866.0,0.0,"Action, RPG, Strategy, Free To Play",0.0,Mostly Positive,39.0,16.0
+Dungeon Defenders II,236110,1411.0,1643168246.0,0.0,39.0,1466112008.0,0.0,"Action, Indie, RPG, Strategy, Free To Play",0.0,Mixed,2031.0,960.0
+LIMBO,48000,0.0,0.0,0.0,39.0,1497202979.0,0.0,"Action, Adventure, Indie",9.99,Very Positive,32930.0,2846.0
+Forager,751780,0.0,0.0,0.0,38.0,1643441976.0,0.0,"Action, Adventure, Indie, Simulation",19.99,Very Positive,29635.0,3131.0
+Hide and Shriek,480430,0.0,0.0,0.0,38.0,1510444985.0,0.0,"Action, Free To Play",0.0,Very Positive,499.0,117.0
+Dwarfs F2P,213650,0.0,0.0,0.0,36.0,1429931514.0,0.0,"Casual, Free To Play, Indie, Strategy",0.0,Mostly Positive,10.0,4.0
+Vampire Survivors,1794680,1123.0,1703631300.0,0.0,35.0,1659061766.0,0.0,"Action, Casual, Indie, RPG",4.99,Overwhelmingly Positive,233152.0,3516.0
+Metro Exodus Enhanced Edition,1449560,0.0,0.0,0.0,35.0,1690924106.0,0.0,Action,29.99,Very Positive,21108.0,2084.0
+Retail Royale,1557990,0.0,0.0,0.0,34.0,1689144828.0,0.0,"Action, Massively Multiplayer, Strategy",4.99,Mostly Positive,35.0,10.0
+RISK: Global Domination,1128810,185.0,1696652677.0,0.0,34.0,1597886906.0,0.0,"Casual, Strategy, Free To Play",0.0,Very Positive,114.0,21.0
+Empyrion - Galactic Survival,383120,0.0,0.0,0.0,34.0,1450370611.0,0.0,"Adventure, Indie, Simulation, Strategy",19.99,Mostly Positive,22349.0,5892.0
+Rubber Bandits: Summer Prologue,1620690,0.0,0.0,0.0,34.0,1622972809.0,0.0,"Action, Free To Play, Indie",0.0,No user reviews,0.0,0.0
+The Mighty Quest For Epic Loot,239220,0.0,0.0,0.0,32.0,1435898481.0,0.0,,,No user reviews,0.0,0.0
+Plants vs. Zombies: Game of the Year,3590,0.0,0.0,0.0,32.0,1717519182.0,0.0,Strategy,4.99,Overwhelmingly Positive,124363.0,3067.0
+Curse of Mermos,352160,0.0,0.0,0.0,31.0,1435615115.0,0.0,"Action, Free To Play, Indie",0.0,1 user reviews,1.0,0.0
+Pixel Piracy,264140,0.0,0.0,0.0,30.0,1447292941.0,0.0,"Adventure, Indie, RPG, Simulation",14.99,Mixed,3765.0,1950.0
+Soda Dungeon 2,946050,0.0,0.0,0.0,29.0,1594695791.0,0.0,"Casual, Indie, RPG, Free To Play",0.0,No user reviews,0.0,0.0
+9 Kings Demo,3122250,0.0,0.0,0.0,29.0,1744425048.0,0.0,Strategy,0.0,No user reviews,0.0,0.0
+Ninja Kiwi Archive,1275350,0.0,0.0,0.0,29.0,1626507464.0,0.0,"Action, Casual, Strategy",0.0,No user reviews,0.0,0.0
+The Farmer Was Replaced,2060160,0.0,0.0,0.0,28.0,1726030386.0,0.0,"Casual, Indie, Simulation, Strategy, Early Access",6.99,Overwhelmingly Positive,1419.0,45.0
+Town of Salem 2,2140510,0.0,0.0,0.0,27.0,1706931354.0,0.0,"Action, Casual, RPG, Strategy, Free To Play",0.0,Mostly Positive,3021.0,825.0
+The Convenience Store | 夜勤事件,1228520,0.0,0.0,0.0,27.0,1609287886.0,0.0,"Action, Adventure, Casual, Indie, Simulation",2.99,Very Positive,2231.0,426.0
+Slapshot,707680,0.0,0.0,0.0,26.0,1601429098.0,0.0,"Free To Play, Indie, Sports",0.0,7 user reviews,7.0,0.0
+War Thunder,236390,0.0,0.0,0.0,25.0,1454786589.0,0.0,"Action, Massively Multiplayer, Simulation, Free To Play",0.0,Mostly Positive,1268.0,501.0
+CreativeDestruction,893520,0.0,0.0,0.0,24.0,1580620833.0,0.0,"Action, Adventure, Casual, Massively Multiplayer",0.0,Mostly Positive,500.0,182.0
+Paunch,792220,0.0,0.0,0.0,23.0,1581146261.0,0.0,"Action, Free To Play, Indie, Massively Multiplayer, RPG, Sports",0.0,1 user reviews,1.0,0.0
+Hunger Dungeon,513560,0.0,0.0,0.0,23.0,1482805369.0,0.0,"Action, Adventure, Free To Play, Indie, RPG, Strategy",0.0,Mostly Positive,96.0,33.0
+Caliber,307950,0.0,0.0,0.0,23.0,1687768207.0,0.0,"Action, Massively Multiplayer, Free To Play",0.0,Mostly Positive,18.0,6.0
+Gotham City Impostors: Free To Play,206210,0.0,0.0,0.0,22.0,1472343317.0,0.0,"Action, Free To Play",0.0,Very Positive,356.0,73.0
+SUPERVIVE,1283700,0.0,0.0,0.0,21.0,1732143502.0,0.0,"Action, Free To Play, Early Access",0.0,No user reviews,0.0,0.0
+Crea,280520,0.0,0.0,0.0,21.0,1590914503.0,0.0,"Action, Adventure, Indie, RPG",14.99,Mostly Positive,797.0,281.0
+Double Action: Boogaloo,317360,0.0,0.0,0.0,20.0,1487218660.0,0.0,"Action, Indie, Free To Play",0.0,Very Positive,118.0,16.0
+Moonbase Alpha,39000,0.0,0.0,0.0,17.0,1490659329.0,0.0,"Adventure, Simulation, Strategy",0.0,Very Positive,145.0,27.0
+One-armed robber,2551020,75.0,1705126916.0,0.0,17.0,1703074476.0,0.0,"Action, Indie, Simulation, Strategy, Free To Play",0.0,No user reviews,0.0,0.0
+Receiver,234190,0.0,0.0,0.0,16.0,1486964914.0,0.0,"Action, Indie, Simulation",4.99,Very Positive,2184.0,355.0
+Open World Game: the Open World Game,1144110,0.0,0.0,0.0,16.0,1610043171.0,0.0,"Adventure, Free To Play, Indie, RPG, Simulation",0.0,4 user reviews,4.0,0.0
+WARMODE,391460,0.0,0.0,0.0,15.0,1648886880.0,0.0,"Action, Free To Play",0.0,Mixed,216.0,116.0
+Swarmlake,793350,0.0,0.0,0.0,14.0,1573019660.0,0.0,"Action, Casual, Indie",2.99,Very Positive,1656.0,89.0
+Spooky's Jump Scare Mansion,356670,0.0,0.0,0.0,14.0,1452655592.0,0.0,"Action, Adventure, Free To Play, Indie",0.0,Very Positive,143.0,7.0
+Mitos.is: The Game,389570,0.0,0.0,0.0,14.0,1471666549.0,0.0,"Casual, Simulation, Free To Play",0.0,Very Positive,147.0,29.0
+Viscera Cleanup Detail,246900,0.0,0.0,0.0,13.0,1561262055.0,0.0,"Indie, Simulation",12.99,Very Positive,15643.0,1177.0
+Cooking Simulator,641320,0.0,0.0,0.0,13.0,1609281994.0,0.0,Simulation,19.99,Very Positive,14222.0,2516.0
+Lovers in a Dangerous Spacetime,252110,0.0,0.0,0.0,13.0,1640855099.0,0.0,"Action, Indie, Simulation",14.99,Very Positive,2949.0,224.0
+The Escapists: The Walking Dead,388060,0.0,0.0,0.0,12.0,1497200521.0,0.0,"Indie, Strategy",17.99,Mixed,433.0,256.0
+Rustangelo,527440,0.0,0.0,0.0,11.0,1567226973.0,0.0,"Free To Play, Indie",0.0,Mixed,74.0,41.0
+UNO,470220,0.0,0.0,0.0,11.0,1582430479.0,0.0,Casual,9.99,Mostly Positive,28548.0,11127.0
+Doki Doki Literature Club,698780,0.0,0.0,0.0,11.0,1517037282.0,0.0,"Casual, Free To Play, Indie",0.0,Very Positive,407.0,10.0
+The SKIES,337950,0.0,0.0,0.0,11.0,1468900185.0,0.0,"Free To Play, Massively Multiplayer, RPG, Early Access",0.0,Mostly Negative,31.0,59.0
+Resident Evil Revelations 2,287290,0.0,0.0,0.0,10.0,1568258887.0,0.0,"Action, Adventure",4.99,Mostly Positive,17693.0,4950.0
+Genesis Online,409510,0.0,0.0,0.0,10.0,1471649298.0,0.0,"Action, Free To Play",0.0,Negative,4.0,29.0
+GASP,412400,0.0,0.0,0.0,10.0,1454778596.0,0.0,"Action, Casual, Free To Play, Indie, Simulation, Strategy",0.0,Mostly Negative,10.0,22.0
+Tribes: Ascend,17080,0.0,0.0,0.0,9.0,1471473749.0,0.0,"Action, Free To Play",0.0,Mixed,37.0,23.0
+AdVenture Communist,462930,0.0,0.0,0.0,9.0,1501910861.0,0.0,"Casual, Indie, Simulation, Strategy, Free To Play, Early Access",0.0,Mixed,106.0,58.0
+Magicka,42910,0.0,0.0,0.0,8.0,1451283575.0,0.0,"Action, RPG",9.99,Very Positive,15963.0,2621.0
+Achievement printer,806140,0.0,0.0,0.0,8.0,1706248952.0,0.0,"Action, Casual, Indie, Sports",0.99,Very Positive,1079.0,130.0
+Bloodlines of Prima,686090,0.0,0.0,0.0,7.0,1566106823.0,0.0,"Action, Adventure, Free To Play, Indie, Massively Multiplayer, RPG",0.0,Mixed,14.0,13.0
+War Trigger 3,298240,0.0,0.0,0.0,7.0,1642404746.0,0.0,"Action, Casual, Indie, Simulation, Free To Play",0.0,Mixed,105.0,61.0
+Neverwinter,109600,0.0,0.0,0.0,7.0,1585964603.0,0.0,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",0.0,Mostly Positive,231.0,69.0
+Iron Snout,424280,0.0,0.0,0.0,7.0,1486843990.0,0.0,"Action, Indie, Free To Play",0.0,Very Positive,322.0,6.0
+Guardians of Orion (Phase 2),407840,0.0,0.0,0.0,6.0,1469041934.0,0.0,"Action, Indie, RPG",0.99,Mixed,1584.0,1397.0
+Blackwake,420290,0.0,0.0,0.0,6.0,1518929526.0,0.0,"Action, Casual, Indie, Strategy, Free To Play",0.0,Very Positive,17138.0,3688.0
+Long Live Santa!,763410,0.0,0.0,0.0,6.0,1568944987.0,0.0,"Action, Free To Play, Indie",0.0,No user reviews,0.0,0.0
+Deformers Open Beta,533200,0.0,0.0,0.0,5.0,1491678091.0,0.0,,,No user reviews,0.0,0.0
+POLYGON,1241100,0.0,0.0,0.0,5.0,1648887299.0,0.0,"Action, Indie, Massively Multiplayer, Free To Play, Early Access",0.0,Mostly Positive,40.0,14.0
+Subsistence,418030,0.0,0.0,0.0,4.0,1562965827.0,0.0,"Action, Early Access",13.99,Mostly Positive,8531.0,3216.0
+No More Room in Hell,224260,0.0,0.0,0.0,4.0,1487051114.0,0.0,"Action, Indie, Free To Play",0.0,Very Positive,598.0,116.0
+StarMade,244770,0.0,0.0,0.0,3.0,1447642645.0,0.0,"Action, Adventure, Indie, RPG, Simulation, Strategy, Early Access",14.99,Mixed,1448.0,736.0
+Ori and the Blind Forest,261570,0.0,0.0,0.0,2.0,1530678517.0,0.0,Action,0.0,Very Positive,45676.0,2685.0
+BLOCKPOST LEGACY,706990,0.0,0.0,0.0,1.0,1587007771.0,0.0,"Action, Indie, Free To Play",0.0,No user reviews,0.0,0.0
+Fallout: New Vegas,22380,0.0,0.0,0.0,1.0,1572390322.0,0.0,"Action, RPG",9.99,Overwhelmingly Positive,174426.0,7188.0
+Bendy and the Ink Machine,622650,0.0,0.0,0.0,1.0,1557375657.0,0.0,"Action, Adventure, Indie, Strategy",19.99,Very Positive,17022.0,1778.0
+Lords Mobile,1041320,0.0,0.0,0.0,1.0,1562032504.0,0.0,"Massively Multiplayer, RPG, Strategy, Free To Play",0.0,No user reviews,0.0,0.0
+Evolution VR,549760,0.0,0.0,0.0,1.0,1482804901.0,0.0,"Action, Casual, Indie, Strategy",0.0,Mostly Positive,18.0,6.0
+War Trigger 2,732730,0.0,0.0,0.0,1.0,1547372872.0,0.0,"Action, Adventure, Free To Play, Indie, Simulation",0.0,No user reviews,0.0,0.0
+The Binding of Isaac,113200,0.0,0.0,0.0,1.0,1543269882.0,0.0,"Action, Adventure, Indie, RPG",4.99,Very Positive,44271.0,2427.0
+Blacklight: Retribution,209870,0.0,0.0,0.0,1.0,1471542140.0,0.0,"Action, Free To Play",0.0,Mixed,74.0,75.0
+Divinity: Original Sin (Classic),230230,0.0,0.0,0.0,0.0,0.0,0.0,"Adventure, Indie, RPG, Strategy",0.0,Very Positive,7317.0,754.0
+Half-Life Deathmatch: Source,360,0.0,0.0,0.0,0.0,0.0,0.0,Action,9.99,Mostly Positive,2854.0,1027.0
+Grand Theft Auto V Enhanced,3240220,0.0,0.0,0.0,0.0,0.0,0.0,"Action, Adventure, Racing",14.99,Mixed,26894.0,14075.0
+Warhammer: Vermintide 2,552500,0.0,0.0,0.0,0.0,0.0,0.0,"Action, Indie, RPG",29.99,Very Positive,71831.0,13170.0
+Nether: The Untold Chapter,1010270,0.0,0.0,0.0,0.0,0.0,0.0,"Action, Adventure, Massively Multiplayer",14.99,Mixed,133.0,114.0
+It Takes Two,1426210,0.0,0.0,0.0,0.0,0.0,0.0,"Action, Adventure",39.99,Overwhelmingly Positive,170749.0,8339.0
+Evoland Legendary Edition,1020470,0.0,0.0,0.0,0.0,0.0,0.0,"Action, Adventure, Casual, Indie, RPG",19.99,Very Positive,1004.0,202.0
+H1Z1: Test Server,439700,0.0,0.0,0.0,0.0,0.0,0.0,Massively Multiplayer,0.0,Mixed,971.0,938.0
+Tick Tock: A Tale for Two,790740,0.0,0.0,0.0,0.0,0.0,0.0,"Adventure, Casual, Indie",5.99,Very Positive,7890.0,1313.0
+Dead by Daylight,381210,1778.0,1743055227.0,0.0,0.0,0.0,0.0,Action,19.99,Mostly Positive,454548.0,120600.0
+Hellbound: Survival Mode,802200,0.0,0.0,0.0,0.0,0.0,0.0,"Action, Indie, Free To Play",0.0,No user reviews,0.0,0.0
+Paladins - Public Test,596350,0.0,0.0,0.0,0.0,0.0,0.0,,,No user reviews,0.0,0.0
+Resident Evil 5,21690,0.0,0.0,0.0,0.0,0.0,0.0,"Action, Adventure",4.99,Very Positive,30142.0,4273.0
+Drawful 2,442070,0.0,0.0,0.0,0.0,0.0,0.0,"Casual, Indie, Strategy",9.99,Very Positive,717.0,68.0
+The Witcher 3: Wild Hunt,292030,0.0,0.0,0.0,0.0,0.0,0.0,RPG,39.99,Overwhelmingly Positive,732802.0,23988.0
+PlanetSide 2 - Test,1083500,0.0,0.0,0.0,0.0,0.0,0.0,"Action, Free To Play, Massively Multiplayer",0.0,No user reviews,0.0,0.0
+Delta Force,2507950,0.0,0.0,0.0,0.0,0.0,0.0,"Action, Adventure, Massively Multiplayer, Free To Play",0.0,No user reviews,0.0,0.0
+The Settlers Online,354640,0.0,0.0,0.0,0.0,0.0,0.0,"Free To Play, Simulation, Strategy",0.0,Mixed,13.0,11.0
+Keep Talking and Nobody Explodes,341800,0.0,0.0,0.0,0.0,0.0,0.0,Indie,14.99,Overwhelmingly Positive,12751.0,327.0
+Overcooked,448510,0.0,0.0,0.0,0.0,0.0,0.0,"Action, Casual, Indie, Simulation",16.99,Very Positive,10964.0,1152.0
+Magicka 2: Spell Balance Beta,397080,0.0,0.0,0.0,0.0,0.0,0.0,,,No user reviews,0.0,0.0
+For Honor - Public Test,654310,0.0,0.0,0.0,0.0,0.0,0.0,,,No user reviews,0.0,0.0
+The Incredible Adventures of Van Helsing: Final Cut,400170,0.0,0.0,0.0,0.0,0.0,0.0,"Action, Adventure, Indie, RPG",44.99,Mostly Positive,1394.0,431.0
+SoulWorker,630100,0.0,0.0,0.0,0.0,0.0,0.0,"Action, Free To Play, Massively Multiplayer, RPG",0.0,No user reviews,0.0,0.0
+SMITE - Public Test,858460,0.0,0.0,0.0,0.0,0.0,0.0,,,No user reviews,0.0,0.0
+Half-Life 2: Deathmatch,320,0.0,0.0,0.0,0.0,0.0,0.0,Action,0.0,Very Positive,8592.0,934.0
+Half-Life 2: Update,290930,0.0,0.0,0.0,0.0,0.0,0.0,"Action, Adventure, Free To Play",0.0,Positive,29.0,2.0
+KartRider: Drift,1184140,0.0,0.0,0.0,0.0,0.0,0.0,Racing,0.0,No user reviews,0.0,0.0
+Counter-Strike: Source,240,30.0,1563245043.0,0.0,0.0,0.0,0.0,Action,9.99,Overwhelmingly Positive,121102.0,4570.0
+Dungeon Defenders,65800,6624.0,1740942002.0,0.0,0.0,0.0,0.0,"Action, Indie, RPG, Strategy",14.99,Very Positive,10618.0,769.0
+Sanctum 2,210770,194.0,1461248324.0,0.0,0.0,0.0,0.0,"Action, Indie, Strategy",14.99,Very Positive,6823.0,544.0
+Borderlands: The Pre-Sequel,261640,18.0,1577667632.0,0.0,0.0,0.0,0.0,"Action, RPG",39.99,Very Positive,24209.0,4967.0
+Dungeon Defenders Eternity,302270,187.0,1485043759.0,0.0,0.0,0.0,0.0,"Action, Indie, RPG, Strategy",0.0,Mixed,650.0,700.0
+Call of Duty: Black Ops III,311210,988.0,1676700090.0,0.0,0.0,0.0,0.0,"Action, Adventure",59.99,Very Positive,122616.0,16928.0
+SUPERHOT,322500,309.0,1576193599.0,0.0,0.0,0.0,0.0,"Action, Indie",24.99,Very Positive,23962.0,2183.0
+Town of Salem,334230,9978.0,1589152788.0,0.0,0.0,0.0,0.0,"Action, Casual, RPG, Strategy",4.99,Very Positive,27456.0,3509.0
+NASCAR '15 Victory Edition,345890,535.0,1695450850.0,0.0,0.0,0.0,0.0,Racing,0.0,Very Positive,1019.0,252.0
+DARK SOULS™ III,374320,71.0,1704684454.0,0.0,0.0,0.0,0.0,Action,59.99,Very Positive,245281.0,14625.0
+Minecraft: Story Mode - A Telltale Games Series,376870,529.0,1501387415.0,0.0,0.0,0.0,0.0,Adventure,0.0,Mostly Positive,5038.0,1634.0
+Time Clickers,385770,54.0,1554093503.0,0.0,0.0,0.0,0.0,"Action, Casual, Free To Play, Indie",0.0,Very Positive,54.0,11.0
+Ultimate Chicken Horse,386940,1335.0,1695447819.0,0.0,0.0,0.0,0.0,"Action, Casual, Indie",14.99,Overwhelmingly Positive,34890.0,1410.0
+Borderlands 3,397540,82.0,1628122035.0,0.0,0.0,0.0,0.0,"Action, RPG",59.99,Very Positive,97458.0,16901.0
+Bloons TD Battles,444640,51.0,1628030052.0,0.0,0.0,0.0,0.0,"Action, Free To Play, Strategy",0.0,Very Positive,303.0,42.0
+PICO PARK:Classic Edition,461040,17.0,1643601726.0,0.0,0.0,0.0,0.0,"Action, Casual, Indie",0.0,Mixed,38.0,24.0
+Human Fall Flat,477160,1207.0,1685762060.0,0.0,0.0,0.0,0.0,"Adventure, Casual, Indie, Simulation",5.99,Very Positive,154651.0,8730.0
+Trimmer Tycoon,505750,11.0,1511496170.0,0.0,0.0,0.0,0.0,"Casual, Free To Play, Indie, Simulation, Strategy",0.0,Positive,25.0,5.0
+Oh...Sir! The Insult Simulator,512250,39.0,1558205851.0,0.0,0.0,0.0,0.0,"Indie, Simulation",1.99,Very Positive,2924.0,261.0
+Deep Rock Galactic,548430,772.0,1703306167.0,0.0,0.0,0.0,0.0,Action,29.99,Overwhelmingly Positive,264452.0,6838.0
+Golf It!,571740,1435.0,1628824375.0,0.0,0.0,0.0,0.0,"Casual, Indie, Simulation, Sports",4.49,Very Positive,20774.0,2110.0
+Tap Adventure: Time Travel,596650,6.0,1505341014.0,0.0,0.0,0.0,0.0,"Adventure, Free To Play",0.0,1 user reviews,0.0,1.0
+Video Horror Society,611360,0.0,0.0,0.0,0.0,0.0,0.0,"Action, Free To Play, Indie, Early Access",0.0,Mostly Positive,22.0,8.0
+Blade & Sorcery,629730,122.0,1607060509.0,0.0,0.0,0.0,0.0,"Action, Adventure, Indie, RPG, Simulation",29.99,Overwhelmingly Positive,52498.0,1760.0
+SUPERHOT: MIND CONTROL DELETE,690040,240.0,1597432053.0,0.0,0.0,0.0,0.0,"Action, Indie",24.99,Very Positive,7405.0,1241.0
+Bean Battles,765410,290.0,1730435034.0,0.0,0.0,0.0,0.0,"Action, Indie",0.99,Very Positive,6176.0,366.0
+Until You Fall,858260,43.0,1628829422.0,0.0,0.0,0.0,0.0,"Action, Adventure, Indie",24.99,Very Positive,2668.0,153.0
+Dungeon Defenders: Awakened,1101190,491.0,1715223457.0,0.0,0.0,0.0,0.0,"Action, Adventure, Indie, RPG, Strategy",29.99,Mixed,2156.0,1010.0
+Mindustry,1127400,1074.0,1684644173.0,0.0,0.0,0.0,0.0,Strategy,3.99,Overwhelmingly Positive,18186.0,774.0
+NGU IDLE,1147690,24.0,1584072367.0,0.0,0.0,0.0,0.0,"Adventure, Indie, Simulation, Free To Play",0.0,No user reviews,0.0,0.0
+Split or Steal,1162930,10.0,1580876584.0,0.0,0.0,0.0,0.0,"Casual, Free To Play, Simulation",0.0,No user reviews,0.0,0.0
+A Way Out,1222700,313.0,1703710118.0,0.0,0.0,0.0,0.0,"Action, Adventure, Indie",29.99,Very Positive,51340.0,7726.0
+Battlefield™ 1,1238840,149.0,1634449092.0,0.0,0.0,0.0,0.0,"Action, Massively Multiplayer",39.99,Very Positive,142207.0,22228.0
+NASCAR Heat 5,1265860,84.0,1660977125.0,0.0,0.0,0.0,0.0,"Racing, Sports",0.0,Very Positive,2345.0,489.0
+Melvor Idle,1267910,8855.0,1740952612.0,0.0,0.0,0.0,0.0,"Adventure, Casual, Indie, RPG",3.99,Very Positive,11920.0,1256.0
+Bloons TD Battles 2,1276390,23.0,1652155846.0,0.0,0.0,0.0,0.0,"Action, Casual, Indie, Strategy, Free To Play",0.0,No user reviews,0.0,0.0
+Escape Room - The Sick Colleague,1301720,44.0,1662088973.0,0.0,0.0,0.0,0.0,"Adventure, Casual, Free To Play",0.0,3 user reviews,0.0,3.0
+Handy Harry's Haunted House Services,1310510,54.0,1657004116.0,0.0,0.0,0.0,0.0,"Indie, Early Access",4.99,Very Positive,492.0,43.0
+No Rest for the Wicked,1371980,22.0,1742254654.0,0.0,0.0,0.0,0.0,"Action, Adventure, RPG, Early Access",39.99,Mostly Positive,21006.0,6687.0
+Cookie Clicker,1454400,2271.0,1742017699.0,0.0,0.0,0.0,0.0,"Casual, Indie, Simulation, Strategy",4.99,Overwhelmingly Positive,71819.0,2440.0
+Leaf Blower Revolution - Idle Game,1468260,5941.0,1677116477.0,0.0,0.0,0.0,0.0,"Casual, Indie, Free To Play",0.0,Positive,21.0,0.0
+Slappyball,1482620,20.0,1651365443.0,0.0,0.0,0.0,0.0,"Casual, Free To Play, Sports",0.0,1 user reviews,1.0,0.0
+It Takes Two Friend's Pass,1504980,0.0,0.0,0.0,0.0,0.0,0.0,,,,,
+PICO PARK,1509960,133.0,1644098894.0,0.0,0.0,0.0,0.0,"Action, Casual, Indie",4.99,Very Positive,20574.0,1905.0
+Lies of P,1627720,67.0,1711730301.0,0.0,0.0,0.0,0.0,"Action, Adventure, RPG",35.99,Very Positive,34610.0,2979.0
+Super Auto Pets,1714040,25.0,1655621002.0,0.0,0.0,0.0,0.0,"Free To Play, Strategy",0.0,No user reviews,0.0,0.0
+UNSAFE EXPRESS,1756160,30.0,1657233004.0,0.0,0.0,0.0,0.0,"Action, Adventure, Indie",5.99,Mixed,134.0,85.0
+BOKURA,1801110,317.0,1705359665.0,0.0,0.0,0.0,0.0,"Action, Adventure, Casual, Indie",5.49,Very Positive,7409.0,690.0
+Omega Strikers,1869590,27.0,1713053201.0,0.0,0.0,0.0,0.0,"Action, Strategy, Free To Play",0.0,No user reviews,0.0,0.0
+Call of Duty®,1938090,0.0,0.0,0.0,0.0,0.0,0.0,Action,0.0,Mixed,214101.0,170665.0
+One-armed cook,1977530,51.0,1697256270.0,0.0,0.0,0.0,0.0,"Casual, Simulation, Free To Play",0.0,3 user reviews,3.0,0.0
+THE FINALS,2073850,125.0,1703578723.0,0.0,0.0,0.0,0.0,"Action, Free To Play",0.0,9 user reviews,8.0,1.0
+Cave Crawlers,2143030,525.0,1726973031.0,0.0,0.0,0.0,0.0,"Action, Adventure, Indie, RPG, Strategy, Free To Play, Early Access",0.0,No user reviews,0.0,0.0
+Outpath: First Journey,2237980,35.0,1680321812.0,0.0,0.0,0.0,0.0,"Adventure, Casual, Indie",0.0,No user reviews,0.0,0.0
+Chillquarium Demo,2296100,6.0,1721855226.0,0.0,0.0,0.0,0.0,,,,,
+We Were Here Expeditions: The FriendShip,2296990,108.0,1705274715.0,0.0,0.0,0.0,0.0,"Adventure, Casual, Indie",2.79,Very Positive,2255.0,459.0
+Overwatch® 2,2357570,536.0,1695793607.0,0.0,0.0,0.0,0.0,"Action, Free To Play",0.0,Mostly Negative,80.0,129.0
+Balatro,2379780,179.0,1736734357.0,0.0,0.0,0.0,0.0,"Casual, Indie, Strategy",14.99,Overwhelmingly Positive,115234.0,2370.0
+Bronzebeard's Tavern,2422870,71.0,1705121438.0,0.0,0.0,0.0,0.0,"Casual, Indie, Simulation, Free To Play",0.0,No user reviews,0.0,0.0
+PILGRIM,2965660,79.0,1735365485.0,0.0,0.0,0.0,0.0,"Action, Adventure, Indie, Early Access",7.99,Mostly Positive,2023.0,578.0

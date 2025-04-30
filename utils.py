@@ -27,7 +27,7 @@ def get_user_games(api_key, steam_id, name):
         for col in playtime_cols:
             if col in df.columns:
                 df.rename(columns={col: f"{col}_{name}"}, inplace=True)
-                
+        df.to_csv(f"{name}_games.csv", index=False)
         return df
     
     else:
@@ -162,6 +162,7 @@ def merge_game_data(df):
 
     # save to a csv file (optional)
     df.to_csv("steam_games_data.csv")
+    return df
 
 def genre_playtime_summary(df, playtime_column):
     """
